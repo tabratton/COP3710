@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<School-Data>
+    <SchoolObjects>
+        <SchoolObject>
+            <id>118273218249783</id>
+            <about>Florida Gulf Coast University, with its innovative programs, technology friendly campus, and outstanding faculty, is one of the most exciting educational environments in America.</about>
+            <founded>May 3, 1991</founded>
+            <likes>10176</likes>
+            <link>https://www.facebook.com/FloridaGulfCoastUniversity</link>
+            <location>
+                <city>Fort Myers</city>
+                <country>United States</country>
+                <latitude>26.465121842016</latitude>
+                <longitude>-81.772800495534</longitude>
+                <state>FL</state>
+                <street>10501 FGCU Blvd. S</street>
+                <zip>33965</zip>
+            </location>
+            <name>Florida Gulf Coast University</name>
+            <talking_about_count>685</talking_about_count>
+            <username>FloridaGulfCoastUniversity</username>
+            <website>http://www.fgcu.edu</website>
+            <were_here_count>38729</were_here_count>
+        </SchoolObject>
+        <SchoolObject>
+            <id>375599862478026</id>
+            <about>Official page of the UCF Knights. #ChargeOn! </about>
+            <founded>1969</founded>
+            <likes>156427</likes>
+            <link>https://www.facebook.com/ucfknights</link>
+            <location>
+                <city>Orlando</city>
+                <country>United States</country>
+                <latitude>28.600969</latitude>
+                <longitude>-81.197259</longitude>
+                <state>FL</state>
+                <street>4000 Central Florida Blvd</street>
+                <zip>32816</zip>
+            </location>
+            <name>UCF Knights</name>
+            <talking_about_count>18965</talking_about_count>
+            <username>ucfknights</username>
+            <website>www.UCFKnights.com</website>
+            <were_here_count>0</were_here_count>
+        </SchoolObject>
+        <SchoolObject>
+            <id>541005012587988</id>
+            <about>Official Page for Florida Polytechnic University, Florida's 12th State University</about>
+            <founded>2012</founded>
+            <likes>5512</likes>
+            <link>https://www.facebook.com/FLPolyU</link>
+            <location>
+                <city>Lakeland</city>
+                <country>United States</country>
+                <latitude>28.147169018581</latitude>
+                <longitude>-81.850223767858</longitude>
+                <state>FL</state>
+                <street>4700 Research Way</street>
+                <zip>33805-8531</zip>
+            </location>
+            <name>Florida Polytechnic University</name>
+            <talking_about_count>104</talking_about_count>
+            <username>FLPolyU</username>
+            <website>http://floridapolytechnic.org</website>
+            <were_here_count>970</were_here_count>
+        </SchoolObject>
+    </SchoolObjects>
+</School-Data>

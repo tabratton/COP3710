@@ -1,0 +1,65 @@
+[
+  {
+    "id": "118273218249783",
+    "about": "Florida Gulf Coast University, with its innovative programs, technology friendly campus, and outstanding faculty, is one of the most exciting educational environments in America.",
+    "founded": "May 3, 1991",
+    "likes": 10176,
+    "link": "https://www.facebook.com/FloridaGulfCoastUniversity",
+    "location": {
+      "street": "10501 FGCU Blvd. S",
+      "city": "Fort Myers",
+      "state": "FL",
+      "country": "United States",
+      "zip": "33965",
+      "latitude": 26.465121842016,
+      "longitude": -81.772800495534
+    },
+    "name": "Florida Gulf Coast University",
+    "talking_about_count": 685,
+    "username": "FloridaGulfCoastUniversity",
+    "website": "http://www.fgcu.edu",
+    "were_here_count": 38729
+  },
+  {
+    "id": "375599862478026",
+    "about": "Official page of the UCF Knights. #ChargeOn! ",
+    "founded": "1969",
+    "likes": 156427,
+    "link": "https://www.facebook.com/ucfknights",
+    "location": {
+      "city": "Orlando",
+      "country": "United States",
+      "latitude": 28.600969,
+      "longitude": -81.197259,
+      "state": "FL",
+      "street": "4000 Central Florida Blvd",
+      "zip": "32816"
+    },
+    "name": "UCF Knights",
+    "talking_about_count": 18965,
+    "username": "ucfknights",
+    "website": "www.UCFKnights.com",
+    "were_here_count": 0
+  },
+  {
+    "id": "541005012587988",
+    "about": "Official Page for Florida Polytechnic University, Florida's 12th State University",
+    "founded": "2012",
+    "likes": 5512,
+    "link": "https://www.facebook.com/FLPolyU",
+    "location": {
+      "city": "Lakeland",
+      "country": "United States",
+      "latitude": 28.147169018581,
+      "longitude": -81.850223767858,
+      "state": "FL",
+      "street": "4700 Research Way",
+      "zip": "33805-8531"
+    },
+    "name": "Florida Polytechnic University",
+    "talking_about_count": 104,
+    "username": "FLPolyU",
+    "website": "http://floridapolytechnic.org",
+    "were_here_count": 970
+  }
+]2

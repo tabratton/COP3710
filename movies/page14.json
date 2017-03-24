@@ -1,0 +1,3635 @@
+{
+  "total": 52486,
+  "movies": [
+    {
+      "id": "771021934",
+      "title": "The Lincoln Lawyer",
+      "year": 2011,
+      "mpaa_rating": "R",
+      "runtime": 118,
+      "critics_consensus": "It doesn't offer any twists on the predictable courtroom thriller formula, but with a charming Matthew McConaughey leading its solid cast, The Lincoln Lawyer offers briskly enjoyable entertainment.",
+      "release_dates": {
+        "theater": "2011-03-10",
+        "dvd": "2011-07-12"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 83,
+        "audience_rating": "Upright",
+        "audience_score": 82
+      },
+      "synopsis": "Matthew McConaughey stars in this legal thriller as a low-rent defense attorney named Mickey Haller. Most of the time, Mickey barely keeps his head above water, representing low-life clients and working out of the back of his car. He thinks he's landed the case of a lifetime when he's hired to defend a rich playboy (Ryan Phillippe) who stands accused of rape and attempted murder, and eagerly accepts his new client and the massive payoff that's sure to come with him. But Mickey soon discovers that he's become ensnared in a twisted plot where no fee in the world is high enough to pay for the deadly workload, and his only hope of survival may just lay in his own skills as a long-practiced double-crosser. ~ Jason Buchanan, Rovi",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/11/15/45/11154542_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/11/15/45/11154542_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/11/15/45/11154542_det.jpg",
+        "original": "http://content8.flixster.com/movie/11/15/45/11154542_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Matthew McConaughey",
+          "id": "162652350",
+          "characters": [
+            "Mickey Haller"
+          ]
+        },
+        {
+          "name": "Marisa Tomei",
+          "id": "162662209",
+          "characters": [
+            "Maggie McPherson"
+          ]
+        },
+        {
+          "name": "Ryan Phillippe",
+          "id": "162676004",
+          "characters": [
+            "Louis Roulet"
+          ]
+        },
+        {
+          "name": "William H. Macy",
+          "id": "162652354",
+          "characters": [
+            "Frank Levin"
+          ]
+        },
+        {
+          "name": "Michael Pena",
+          "id": "309887156",
+          "characters": [
+            "Jesus Martinez"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1189340"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771021934.json",
+        "alternate": "http://www.rottentomatoes.com/m/lincoln_lawyer/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771021934/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771021934/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771021934/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771021934/similar.json"
+      }
+    },
+    {
+      "id": "417267090",
+      "title": "The Brothers Bloom",
+      "year": 2008,
+      "mpaa_rating": "PG-13",
+      "runtime": 113,
+      "critics_consensus": "Despite strong performances The Brothers Bloom ultimately does not fulfill its lofty ambitions.",
+      "release_dates": {
+        "theater": "2009-05-15",
+        "dvd": "2009-09-29"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 66,
+        "audience_rating": "Upright",
+        "audience_score": 64
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/10/91/35/10913517_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/10/91/35/10913517_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/10/91/35/10913517_det.jpg",
+        "original": "http://content7.flixster.com/movie/10/91/35/10913517_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Rachel Weisz",
+          "id": "162653682",
+          "characters": [
+            "Penelope"
+          ]
+        },
+        {
+          "name": "Adrien Brody",
+          "id": "162660902",
+          "characters": [
+            "Bloom"
+          ]
+        },
+        {
+          "name": "Mark Ruffalo",
+          "id": "162653904",
+          "characters": [
+            "Stephen"
+          ]
+        },
+        {
+          "name": "Rinko Kikuchi",
+          "id": "545585891",
+          "characters": [
+            "Bang Bang"
+          ]
+        },
+        {
+          "name": "Maximilian Schell",
+          "id": "162658011",
+          "characters": [
+            "Diamond Dog"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0844286"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/417267090.json",
+        "alternate": "http://www.rottentomatoes.com/m/brothers_bloom/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/417267090/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/417267090/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/417267090/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/417267090/similar.json"
+      }
+    },
+    {
+      "id": "17094",
+      "title": "Leon: The Professional",
+      "year": 1994,
+      "mpaa_rating": "R",
+      "runtime": 104,
+      "critics_consensus": "Pivoting on the unusual relationship between seasoned hitman and his 12-year-old apprentice -- a breakout turn by young Natalie Portman -- Luc Besson's Leon is a stylish and oddly affecting thriller.",
+      "release_dates": {
+        "theater": "1994-11-18",
+        "dvd": "2000-08-15"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 79,
+        "audience_rating": "Upright",
+        "audience_score": 95
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/28/62/286221_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/28/62/286221_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/28/62/286221_det.jpg",
+        "original": "http://content7.flixster.com/movie/28/62/286221_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Jean Reno",
+          "id": "162653166",
+          "characters": [
+            "Leon"
+          ]
+        },
+        {
+          "name": "Natalie Portman",
+          "id": "162652154",
+          "characters": [
+            "Mathilda"
+          ]
+        },
+        {
+          "name": "Gary Oldman",
+          "id": "162652649",
+          "characters": [
+            "Stansfield"
+          ]
+        },
+        {
+          "name": "Danny Aiello",
+          "id": "162661514",
+          "characters": [
+            "Tony"
+          ]
+        },
+        {
+          "name": "Peter Appel",
+          "id": "326395595",
+          "characters": [
+            "Malky"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0110413"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/17094.json",
+        "alternate": "http://www.rottentomatoes.com/m/leon_the_professional/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/17094/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/17094/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/17094/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/17094/similar.json"
+      }
+    },
+    {
+      "id": "287865326",
+      "title": "All The King's Men",
+      "year": 2006,
+      "mpaa_rating": "PG-13",
+      "runtime": 128,
+      "critics_consensus": "With a scenery-chewing performance from Sean Penn, an absence of political insight, and an overall lack of narrative cohesiveness, these Men give Oscar bait a bad name.",
+      "release_dates": {
+        "theater": "2006-09-22",
+        "dvd": "2006-12-19"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 11,
+        "audience_rating": "Spilled",
+        "audience_score": 40
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/10/88/50/10885070_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/10/88/50/10885070_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/10/88/50/10885070_det.jpg",
+        "original": "http://content8.flixster.com/movie/10/88/50/10885070_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Sean Penn",
+          "id": "162652280",
+          "characters": [
+            "Willie Stark"
+          ]
+        },
+        {
+          "name": "Jude Law",
+          "id": "162659420",
+          "characters": [
+            "Jack Burden"
+          ]
+        },
+        {
+          "name": "Kate Winslet",
+          "id": "162659302",
+          "characters": [
+            "Anne Stanton"
+          ]
+        },
+        {
+          "name": "James Gandolfini",
+          "id": "162667080",
+          "characters": [
+            "Tiny Duffy"
+          ]
+        },
+        {
+          "name": "Mark Ruffalo",
+          "id": "162653904",
+          "characters": [
+            "Adam Stanton"
+          ]
+        }
+      ],
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/287865326.json",
+        "alternate": "http://www.rottentomatoes.com/m/all_the_kings_men/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/287865326/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/287865326/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/287865326/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/287865326/similar.json"
+      }
+    },
+    {
+      "id": "14466",
+      "title": "The Texas Chainsaw Massacre",
+      "year": 1974,
+      "mpaa_rating": "R",
+      "runtime": 83,
+      "critics_consensus": "Thanks to a smart script and documentary-style camerawork, The Texas Chainsaw Massacre achieves start-to-finish suspense, making it a classic in low-budget exploitation cinema.",
+      "release_dates": {
+        "theater": "1974-10-01",
+        "dvd": "1993-10-13"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 91,
+        "audience_rating": "Upright",
+        "audience_score": 82
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/27/47/274725_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/27/47/274725_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/27/47/274725_det.jpg",
+        "original": "http://content7.flixster.com/movie/27/47/274725_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Marilyn Burns",
+          "id": "162708237",
+          "characters": [
+            "Sally"
+          ]
+        },
+        {
+          "name": "Allen Danziger",
+          "id": "341817834",
+          "characters": [
+            "Jerry"
+          ]
+        },
+        {
+          "name": "Paul A. Partain",
+          "id": "341817835",
+          "characters": [
+            "Franklin"
+          ]
+        },
+        {
+          "name": "William Vail",
+          "id": "341817836",
+          "characters": [
+            "Kirk"
+          ]
+        },
+        {
+          "name": "Teri McMinn",
+          "id": "341817837",
+          "characters": [
+            "Pam"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0072271"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/14466.json",
+        "alternate": "http://www.rottentomatoes.com/m/1021112-texas_chainsaw_massacre/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/14466/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/14466/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/14466/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/14466/similar.json"
+      }
+    },
+    {
+      "id": "501914114",
+      "title": "The Lookout",
+      "year": 2007,
+      "mpaa_rating": "R",
+      "runtime": 99,
+      "critics_consensus": "The Lookout is a genuinely suspenseful and affecting noir due to the great ensemble cast and their complex, realistic characters.",
+      "release_dates": {
+        "theater": "2007-03-30",
+        "dvd": "2007-08-14"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 87,
+        "audience_rating": "Upright",
+        "audience_score": 74
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/44/93/14/4493141_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/44/93/14/4493141_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/44/93/14/4493141_det.jpg",
+        "original": "http://content7.flixster.com/movie/44/93/14/4493141_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Joseph Gordon-Levitt",
+          "id": "162666960",
+          "characters": [
+            "Chris Pratt"
+          ]
+        },
+        {
+          "name": "Jeff Daniels",
+          "id": "162654392",
+          "characters": [
+            "Lewis"
+          ]
+        },
+        {
+          "name": "Matthew Goode",
+          "id": "162669627",
+          "characters": [
+            "Gary Spargo"
+          ]
+        },
+        {
+          "name": "Isla Fisher",
+          "id": "162652839",
+          "characters": [
+            "Luvlee Lemons"
+          ]
+        },
+        {
+          "name": "Carla Gugino",
+          "id": "162662384",
+          "characters": [
+            "Janet"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0427470"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/501914114.json",
+        "alternate": "http://www.rottentomatoes.com/m/lookout/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/501914114/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/501914114/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/501914114/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/501914114/similar.json"
+      }
+    },
+    {
+      "id": "770811108",
+      "title": "The Collector",
+      "year": 2009,
+      "mpaa_rating": "R",
+      "runtime": 88,
+      "critics_consensus": "Increasingly tedious displays of gore makes this torture porn home-invasion-horror more programmatic than provocative.",
+      "release_dates": {
+        "theater": "2009-07-31",
+        "dvd": "2010-04-06"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 30,
+        "audience_rating": "Spilled",
+        "audience_score": 47
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/10/89/02/10890239_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/10/89/02/10890239_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/10/89/02/10890239_det.jpg",
+        "original": "http://content9.flixster.com/movie/10/89/02/10890239_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Josh Stewart",
+          "id": "770689252",
+          "characters": [
+            "Arkin"
+          ]
+        },
+        {
+          "name": "Michael Reilly Burke",
+          "id": "162702917",
+          "characters": [
+            "Michael"
+          ]
+        },
+        {
+          "name": "Andrea Roth",
+          "id": "421799670",
+          "characters": [
+            "Victoria"
+          ]
+        },
+        {
+          "name": "Madeline Zima",
+          "id": "364650875",
+          "characters": [
+            "Jill"
+          ]
+        },
+        {
+          "name": "Daniella Alonso",
+          "id": "493950157",
+          "characters": [
+            "Lisa"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0844479"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770811108.json",
+        "alternate": "http://www.rottentomatoes.com/m/1214027-collector/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770811108/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770811108/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770811108/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770811108/similar.json"
+      }
+    },
+    {
+      "id": "771312396",
+      "title": "The Impossible",
+      "year": 2012,
+      "mpaa_rating": "PG-13",
+      "runtime": 113,
+      "critics_consensus": "The screenplay isn't quite as powerful as the direction or the acting, but with such an astonishing real-life story at its center, The Impossible is never less than compelling.",
+      "release_dates": {
+        "theater": "2012-12-21",
+        "dvd": "2013-04-23"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 81,
+        "audience_rating": "Upright",
+        "audience_score": 85
+      },
+      "synopsis": "Maria, Henry and their three sons begin their winter vacation in Thailand, looking forward to a few days in tropical paradise. But on the morning of December 26th, as the family relaxes around the pool after their Christmas festivities the night before, a terrifying roar rises up from the center of the earth. As Maria freezes in fear, a huge wall of black water races across the hotel grounds toward her.",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/11/17/03/11170393_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/11/17/03/11170393_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/11/17/03/11170393_det.jpg",
+        "original": "http://content7.flixster.com/movie/11/17/03/11170393_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Naomi Watts",
+          "id": "162654749",
+          "characters": [
+            "Maria"
+          ]
+        },
+        {
+          "name": "Ewan McGregor",
+          "id": "162652152",
+          "characters": [
+            "Henry"
+          ]
+        },
+        {
+          "name": "Tom Holland (X)",
+          "id": "771425934",
+          "characters": [
+            "Lucas"
+          ]
+        },
+        {
+          "name": "Samuel Joslin",
+          "id": "771430473",
+          "characters": [
+            "Thomas"
+          ]
+        },
+        {
+          "name": "Oaklee Pendergast",
+          "id": "771430474",
+          "characters": [
+            "Simon"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1649419"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771312396.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_impossible_2012/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771312396/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771312396/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771312396/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771312396/similar.json"
+      }
+    },
+    {
+      "id": "771254143",
+      "title": "The Guilt Trip",
+      "year": 2012,
+      "mpaa_rating": "PG-13",
+      "runtime": 96,
+      "critics_consensus": "Seth Rogen and Barbra Streisand have enough chemistry to drive a solidly assembled comedy; unfortunately, The Guilt Trip has a lemon of a script and is perilously low on comedic fuel.",
+      "release_dates": {
+        "theater": "2012-12-19",
+        "dvd": "2013-04-30"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 38,
+        "audience_rating": "Spilled",
+        "audience_score": 40
+      },
+      "synopsis": "An inventor and his mom hit the road together so he can sell his latest invention.",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/17/06/11170620_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/17/06/11170620_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/17/06/11170620_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/17/06/11170620_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Barbra Streisand",
+          "id": "162655994",
+          "characters": [
+            "Joyce Brewster"
+          ]
+        },
+        {
+          "name": "Seth Rogen",
+          "id": "162653310",
+          "characters": [
+            "Andrew Brewster",
+            "Andy Brewster"
+          ]
+        },
+        {
+          "name": "Kathy Najimy",
+          "id": "162659061",
+          "characters": [
+            "Gayle"
+          ]
+        },
+        {
+          "name": "Colin Hanks",
+          "id": "162666499",
+          "characters": [
+            "Rob"
+          ]
+        },
+        {
+          "name": "Brett Cullen",
+          "id": "364611155",
+          "characters": [
+            "Ben Graw"
+          ]
+        }
+      ],
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771254143.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_guilt_trip/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771254143/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771254143/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771254143/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771254143/similar.json"
+      }
+    },
+    {
+      "id": "11425",
+      "title": "Around the World in 80 Days",
+      "year": 2004,
+      "mpaa_rating": "PG",
+      "runtime": 119,
+      "critics_consensus": "Hit-and-miss family fare that bares only the slightest resemblance to Verne's novel.",
+      "release_dates": {
+        "theater": "2004-06-16",
+        "dvd": "2004-11-02"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 31,
+        "audience_rating": "Spilled",
+        "audience_score": 34
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/11/14/86/11148613_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/11/14/86/11148613_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/11/14/86/11148613_det.jpg",
+        "original": "http://content7.flixster.com/movie/11/14/86/11148613_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Jackie Chan",
+          "id": "162661013",
+          "characters": [
+            "Lau Xing",
+            "Passepartout"
+          ]
+        },
+        {
+          "name": "Steve Coogan",
+          "id": "162671833",
+          "characters": [
+            "Phileas Fogg"
+          ]
+        },
+        {
+          "name": "Jim Broadbent",
+          "id": "162653369",
+          "characters": [
+            "Lord Kelvin"
+          ]
+        },
+        {
+          "name": "Robert Fyfe",
+          "id": "770752285",
+          "characters": [
+            "Jean Michel"
+          ]
+        },
+        {
+          "name": "Cecile De France",
+          "id": "162724888",
+          "characters": [
+            "Monique de Grave"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0327437"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/11425.json",
+        "alternate": "http://www.rottentomatoes.com/m/around_the_world_in_80_days/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/11425/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/11425/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/11425/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/11425/similar.json"
+      }
+    },
+    {
+      "id": "770810665",
+      "title": "The Ghost Writer",
+      "year": 2010,
+      "mpaa_rating": "PG-13",
+      "runtime": 68,
+      "critics_consensus": "While it may lack the revelatory punch of Polanski's finest films, Ghost Writer benefits from stylish direction, a tense screenplay, and a strong central performance from Ewan McGregor.",
+      "release_dates": {
+        "theater": "2010-02-19",
+        "dvd": "2010-08-03"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 83,
+        "audience_rating": "Upright",
+        "audience_score": 70
+      },
+      "synopsis": "A ghostwriter stumbles onto a secret that places his life in danger as he takes down the life story of a former U.K. prime minister in this Roman Polanski-helmed adaptation of the Robert Harris novel. Convinced by his agent that he's been granted a once-in-a-lifetime opportunity, talented British screenwriter \"The Ghost\" (Ewan McGregor) agrees to aid British prime minister Adam Lang (Pierce Brosnan) in completing his memoirs after the leader's former aide dies under mysterious circumstances. Almost immediately after The Ghost arrives at a remote mansion in the U.S. to begin working with the prime minister, Lang is accused of committing a war crime by a former British cabinet minister. Amidst a deluge of protestors and reporters, The Ghost delves into the unfinished manuscript and comes to the terrifying conclusion that his predecessor died because he discovered a link between Prime Minister Lang and the CIA. The more information The Ghost uncovers, the more convinced he becomes that his life could be in danger as well. ~ Jason Buchanan, Rovi",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/10/95/22/10952222_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/10/95/22/10952222_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/10/95/22/10952222_det.jpg",
+        "original": "http://content8.flixster.com/movie/10/95/22/10952222_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Ewan McGregor",
+          "id": "162652152",
+          "characters": [
+            "The Ghost"
+          ]
+        },
+        {
+          "name": "Pierce Brosnan",
+          "id": "162663451",
+          "characters": [
+            "Adam Lang"
+          ]
+        },
+        {
+          "name": "Kim Cattrall",
+          "id": "162655985",
+          "characters": [
+            "Amelia Bly"
+          ]
+        },
+        {
+          "name": "Olivia Williams",
+          "id": "162662296",
+          "characters": [
+            "Ruth Lang"
+          ]
+        },
+        {
+          "name": "Tom Wilkinson",
+          "id": "162653769",
+          "characters": [
+            "Paul Emmett"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1139328"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770810665.json",
+        "alternate": "http://www.rottentomatoes.com/m/10012063-ghost_writer/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770810665/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770810665/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770810665/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770810665/similar.json"
+      }
+    },
+    {
+      "id": "770676448",
+      "title": "Before the Devil Knows You're Dead",
+      "year": 2007,
+      "mpaa_rating": "R",
+      "runtime": 116,
+      "critics_consensus": "A tense and effective thriller, Before the Devil Knows You're Dead marks a triumphant return to form for director Sidney Lumet.",
+      "release_dates": {
+        "theater": "2007-11-02",
+        "dvd": "2008-03-04"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 88,
+        "audience_rating": "Upright",
+        "audience_score": 71
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/16/92/11169291_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/16/92/11169291_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/16/92/11169291_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/16/92/11169291_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Philip Seymour Hoffman",
+          "id": "162654287",
+          "characters": [
+            "Andy Hanson"
+          ]
+        },
+        {
+          "name": "Ethan Hawke",
+          "id": "162660464",
+          "characters": [
+            "Hank Hanson"
+          ]
+        },
+        {
+          "name": "Marisa Tomei",
+          "id": "162662209",
+          "characters": [
+            "Gina Hanson"
+          ]
+        },
+        {
+          "name": "Albert Finney",
+          "id": "162655899",
+          "characters": [
+            "Charles Hanson"
+          ]
+        },
+        {
+          "name": "Michael Shannon",
+          "id": "368451324",
+          "characters": [
+            "Dex"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0292963"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770676448.json",
+        "alternate": "http://www.rottentomatoes.com/m/before_the_devil_knows_youre_dead/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770676448/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770676448/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770676448/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770676448/similar.json"
+      }
+    },
+    {
+      "id": "771041141",
+      "title": "The Dilemma",
+      "year": 2011,
+      "mpaa_rating": "PG-13",
+      "runtime": 110,
+      "critics_consensus": "It boasts a likable cast and an interesting premise, but The Dilemma can't decide what to do with them; the result is an uneven blend of cheesy slapstick and surprisingly dark comedy.",
+      "release_dates": {
+        "theater": "2011-01-14",
+        "dvd": "2011-05-03"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 24,
+        "audience_rating": "Spilled",
+        "audience_score": 29
+      },
+      "synopsis": "Vince Vaughn and Kevin James headline an all-star comedy from director Ron Howard and producer Brian Grazer about a man who finds out that what you don't say to a friend is just as important as what you do. Jennifer Connelly, Winona Ryder, Channing Tatum and Queen Latifah join them in The Dilemma, a story of how far you can bend a brotherly bond before it snaps. Since college, confirmed bachelor Ronny (Vaughn) and happily married Nick (James) have been through thick and thin. Now partners in an auto design firm, the two pals are vying to land a dream project that would launch their company. With Ronny's girlfriend, Beth (Connelly), and Nick's wife, Geneva (Ryder), by their sides, they're unbeatable. But Ronny's world is turned upside down when he inadvertently sees Geneva out with another man and makes it his mission to get answers. As the amateur investigation dissolves his world into comic mayhem, he learns that Nick has a few secrets of his own. Now, with the clock ticking and pressure mounting on the biggest presentation of their careers, Ronny must decide how and when he will reveal the truth to his best friend. -- (C) Universal",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/15/50/11155059_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/15/50/11155059_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/15/50/11155059_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/15/50/11155059_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Vince Vaughn",
+          "id": "162652630",
+          "characters": [
+            "Ronny Valentine"
+          ]
+        },
+        {
+          "name": "Kevin James",
+          "id": "326298578",
+          "characters": [
+            "Nick Brann3n",
+            "Nick Brannen"
+          ]
+        },
+        {
+          "name": "Jennifer Connelly",
+          "id": "162652853",
+          "characters": [
+            "Beth"
+          ]
+        },
+        {
+          "name": "Christina Anthony",
+          "id": "771093140",
+          "characters": [
+            "Bank Customer"
+          ]
+        },
+        {
+          "name": "Winona Ryder",
+          "id": "162659115",
+          "characters": [
+            "Geneva"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1578275"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771041141.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_dilemma/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771041141/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771041141/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771041141/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771041141/similar.json"
+      }
+    },
+    {
+      "id": "771206753",
+      "title": "The Master",
+      "year": 2012,
+      "mpaa_rating": "R",
+      "runtime": 138,
+      "critics_consensus": "Smart and solidly engrossing, The Master extends Paul Thomas Anderson's winning streak of challenging films for serious audiences.",
+      "release_dates": {
+        "theater": "2012-09-14",
+        "dvd": "2013-02-26"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 85,
+        "audience_rating": "Upright",
+        "audience_score": 60
+      },
+      "synopsis": "A striking portrait of drifters and seekers in post World War II America, Paul Thomas Anderson's The Master unfolds the journey of a Naval veteran (Joaquin Phoenix) who arrives home from war unsettled and uncertain of his future - until he is tantalized by The Cause and its charismatic leader (Philip Seymour Hoffman). -- (C) Weinstein",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/11/17/64/11176490_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/11/17/64/11176490_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/11/17/64/11176490_det.jpg",
+        "original": "http://content8.flixster.com/movie/11/17/64/11176490_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Joaquin Phoenix",
+          "id": "162655394",
+          "characters": [
+            "Freddie Quell",
+            "Freddie Sutton"
+          ]
+        },
+        {
+          "name": "Philip Seymour Hoffman",
+          "id": "162654287",
+          "characters": [
+            "Lancaster Dodd"
+          ]
+        },
+        {
+          "name": "Amy Adams",
+          "id": "162653029",
+          "characters": [
+            "Mary Sue Dodd",
+            "Peggy Dodd"
+          ]
+        },
+        {
+          "name": "Laura Dern",
+          "id": "162654251",
+          "characters": [
+            "Helen",
+            "Helen Sullivan"
+          ]
+        },
+        {
+          "name": "Jesse Plemons",
+          "id": "770696729",
+          "characters": [
+            "Val Dodd"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1560747"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771206753.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_master_2011/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771206753/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771206753/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771206753/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771206753/similar.json"
+      }
+    },
+    {
+      "id": "10977",
+      "title": "The Stepford Wives",
+      "year": 2004,
+      "mpaa_rating": "PG-13",
+      "runtime": 93,
+      "critics_consensus": "In exchanging the chilling satire of the original into mindless camp, this remake has itself become Stepford-ized.",
+      "release_dates": {
+        "theater": "2004-06-11",
+        "dvd": "2004-11-09"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 26,
+        "audience_rating": "Spilled",
+        "audience_score": 30
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/25/84/258412_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/25/84/258412_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/25/84/258412_det.jpg",
+        "original": "http://content6.flixster.com/movie/25/84/258412_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Nicole Kidman",
+          "id": "162652279",
+          "characters": [
+            "Joanna Eberhart"
+          ]
+        },
+        {
+          "name": "Matthew Broderick",
+          "id": "162655730",
+          "characters": [
+            "Walter Kresby"
+          ]
+        },
+        {
+          "name": "Bette Midler",
+          "id": "162659059",
+          "characters": [
+            "Bobbi Markowitz"
+          ]
+        },
+        {
+          "name": "Glenn Close",
+          "id": "162653084",
+          "characters": [
+            "Claire Wellington"
+          ]
+        },
+        {
+          "name": "Christopher Walken",
+          "id": "162652837",
+          "characters": [
+            "Mike Wellington"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0327162"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/10977.json",
+        "alternate": "http://www.rottentomatoes.com/m/stepford_wives/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/10977/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/10977/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/10977/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/10977/similar.json"
+      }
+    },
+    {
+      "id": "13446",
+      "title": "The Bone Collector",
+      "year": 1999,
+      "mpaa_rating": "R",
+      "runtime": 118,
+      "critics_consensus": "A talented cast is wasted on a bland attempt at a suspenseful, serial killer flick.",
+      "release_dates": {
+        "theater": "1999-11-05",
+        "dvd": "2001-08-28"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 28,
+        "audience_rating": "Upright",
+        "audience_score": 64
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/16/88/11168815_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/16/88/11168815_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/16/88/11168815_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/16/88/11168815_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Denzel Washington",
+          "id": "162661439",
+          "characters": [
+            "Lincoln Rhyme"
+          ]
+        },
+        {
+          "name": "Angelina Jolie",
+          "id": "162652626",
+          "characters": [
+            "Amelia Donaghy"
+          ]
+        },
+        {
+          "name": "Queen Latifah",
+          "id": "162667338",
+          "characters": [
+            "Thelma"
+          ]
+        },
+        {
+          "name": "Michael Rooker",
+          "id": "162724222",
+          "characters": [
+            "Capt. Howard Cheney"
+          ]
+        },
+        {
+          "name": "Mike McGlone",
+          "id": "162703690",
+          "characters": [
+            "Detective Kenny Soloman"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0145681"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/13446.json",
+        "alternate": "http://www.rottentomatoes.com/m/bone_collector/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/13446/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/13446/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/13446/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/13446/similar.json"
+      }
+    },
+    {
+      "id": "13286",
+      "title": "The Beach",
+      "year": 2000,
+      "mpaa_rating": "R",
+      "runtime": 120,
+      "critics_consensus": "Critics say The Beach is unfocused and muddled, a shallow adaptation of the novel it is based on. Points go to the gorgeous cinematography, though.",
+      "release_dates": {
+        "theater": "2000-02-11",
+        "dvd": "2001-01-09"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 19,
+        "audience_rating": "Spilled",
+        "audience_score": 58
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/11/16/47/11164758_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/11/16/47/11164758_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/11/16/47/11164758_det.jpg",
+        "original": "http://content8.flixster.com/movie/11/16/47/11164758_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Leonardo DiCaprio",
+          "id": "162659161",
+          "characters": [
+            "Richard"
+          ]
+        },
+        {
+          "name": "Tilda Swinton",
+          "id": "162654047",
+          "characters": [
+            "Sal"
+          ]
+        },
+        {
+          "name": "Virginie Ledoyen",
+          "id": "364612591",
+          "characters": [
+            "Francoise"
+          ]
+        },
+        {
+          "name": "Guillaume Canet",
+          "id": "162688284",
+          "characters": [
+            "Etienne"
+          ]
+        },
+        {
+          "name": "Paterson Joseph",
+          "id": "770694944",
+          "characters": [
+            "Keaty"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0163978"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/13286.json",
+        "alternate": "http://www.rottentomatoes.com/m/beach/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/13286/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/13286/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/13286/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/13286/similar.json"
+      }
+    },
+    {
+      "id": "770680512",
+      "title": "The Duchess",
+      "year": 2008,
+      "mpaa_rating": "PG-13",
+      "runtime": 110,
+      "critics_consensus": "While The Duchess treads the now-familiar terrain of the corset-ripper, the costumes look great and Keira Knightley's performance is stellar in this subtly feminist, period drama.",
+      "release_dates": {
+        "theater": "2008-09-05",
+        "dvd": "2009-01-27"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 61,
+        "audience_rating": "Upright",
+        "audience_score": 67
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/10/85/97/10859746_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/10/85/97/10859746_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/10/85/97/10859746_det.jpg",
+        "original": "http://content8.flixster.com/movie/10/85/97/10859746_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Keira Knightley",
+          "id": "162654560",
+          "characters": [
+            "Georgiana Spencer"
+          ]
+        },
+        {
+          "name": "Ralph Fiennes",
+          "id": "162653681",
+          "characters": [
+            "Duke of Devonshire"
+          ]
+        },
+        {
+          "name": "Charlotte Rampling",
+          "id": "162670589",
+          "characters": [
+            "Lady Spencer"
+          ]
+        },
+        {
+          "name": "Dominic Cooper",
+          "id": "349219113",
+          "characters": [
+            "Earl Grey"
+          ]
+        },
+        {
+          "name": "Hayley Atwell",
+          "id": "417268294",
+          "characters": [
+            "Lady Bess Foster"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0864761"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770680512.json",
+        "alternate": "http://www.rottentomatoes.com/m/10009493-duchess/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770680512/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770680512/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770680512/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770680512/similar.json"
+      }
+    },
+    {
+      "id": "387529107",
+      "title": "The Reaping",
+      "year": 2007,
+      "mpaa_rating": "R",
+      "runtime": 99,
+      "critics_consensus": "It may feature such accomplished actors as Hilary Swank and Stephen Rea, but The Reaping also boasts the apropos tagline \"What hath God wrought?\" It's schlocky, spiritually shallow, and scare-free.",
+      "release_dates": {
+        "theater": "2007-04-05",
+        "dvd": "2007-10-16"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 8,
+        "audience_rating": "Spilled",
+        "audience_score": 50
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/32/92/28/3292280_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/32/92/28/3292280_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/32/92/28/3292280_det.jpg",
+        "original": "http://content6.flixster.com/movie/32/92/28/3292280_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Hilary Swank",
+          "id": "162659170",
+          "characters": [
+            "Katherine Winter"
+          ]
+        },
+        {
+          "name": "David Morrissey",
+          "id": "335715969",
+          "characters": [
+            "Doug"
+          ]
+        },
+        {
+          "name": "Idris Elba",
+          "id": "162654425",
+          "characters": [
+            "Ben"
+          ]
+        },
+        {
+          "name": "Annasophia Robb",
+          "id": "162659139",
+          "characters": [
+            "Loren McConell"
+          ]
+        },
+        {
+          "name": "Stephen Rea",
+          "id": "162655349",
+          "characters": [
+            "Father Costigan"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0444682"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/387529107.json",
+        "alternate": "http://www.rottentomatoes.com/m/reaping/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/387529107/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/387529107/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/387529107/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/387529107/similar.json"
+      }
+    },
+    {
+      "id": "371357838",
+      "title": "The Women",
+      "year": 2008,
+      "mpaa_rating": "PG-13",
+      "runtime": 114,
+      "critics_consensus": "The Women is a toothless remake of the 1939 classic, lacking the charm, wit and compelling protagonists of the original.",
+      "release_dates": {
+        "theater": "2008-09-04",
+        "dvd": "2008-12-19"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 13,
+        "audience_rating": "Spilled",
+        "audience_score": 38
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/10/85/30/10853064_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/10/85/30/10853064_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/10/85/30/10853064_det.jpg",
+        "original": "http://content6.flixster.com/movie/10/85/30/10853064_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Meg Ryan",
+          "id": "162658412",
+          "characters": [
+            "Mary Haines"
+          ]
+        },
+        {
+          "name": "Annette Bening",
+          "id": "162660402",
+          "characters": [
+            "Sylvie Fowler"
+          ]
+        },
+        {
+          "name": "Eva Mendes",
+          "id": "162666504",
+          "characters": [
+            "Crystal Allen"
+          ]
+        },
+        {
+          "name": "Debra Messing",
+          "id": "162659475",
+          "characters": [
+            "Edie Cohen"
+          ]
+        },
+        {
+          "name": "Jada Pinkett Smith",
+          "id": "162673877",
+          "characters": [
+            "Alex Fisher"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0430770"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/371357838.json",
+        "alternate": "http://www.rottentomatoes.com/m/10009516-women/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/371357838/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/371357838/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/371357838/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/371357838/similar.json"
+      }
+    },
+    {
+      "id": "770866920",
+      "title": "Legend of the Guardians: The Owls of Ga'Hoole",
+      "year": 2010,
+      "mpaa_rating": "PG",
+      "runtime": 90,
+      "critics_consensus": "Legend of the Guardians' dark tone and dazzling visuals are to be admired, even if they're ultimately let down by a story that never lives up to its full potential.",
+      "release_dates": {
+        "theater": "2010-09-24",
+        "dvd": "2010-12-17"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 50,
+        "audience_rating": "Upright",
+        "audience_score": 64
+      },
+      "synopsis": "Acclaimed filmmaker Zack Snyder makes his animation debut with the fantasy family adventure \"Legend of the Guardians: The Owls of Ga'Hoole\" based on the beloved Guardians of Ga'Hoole books by Kathryn Lasky. The film follows Soren, a young owl enthralled by his father's epic stories of the Guardians of Ga' Hoole, a mythic band of winged warriors who had fought a great battle to save all of owlkind from the evil Pure Ones. While Soren dreams of someday joining his heroes, his older brother, Kludd, scoffs at the notion, and yearns to hunt, fly and steal his father's favor from his younger sibling. But Kludd's jealousy has terrible consequences--causing both owlets to fall from their treetop home and right into the talons of the Pure Ones. Now it is up to Soren to make a daring escape with the help of other brave young owls. Together they soar across the sea and through the mist to find the Great Tree, home of the legendary Guardians--Soren's only hope of defeating the Pure Ones and saving the owl kingdoms. -- (C) Warner Bros",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/15/18/11151835_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/15/18/11151835_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/15/18/11151835_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/15/18/11151835_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Sam Neill",
+          "id": "162656850",
+          "characters": [
+            "Allomere"
+          ]
+        },
+        {
+          "name": "Geoffrey Rush",
+          "id": "162659119",
+          "characters": [
+            "Ezylryb"
+          ]
+        },
+        {
+          "name": "Hugo Weaving",
+          "id": "162709905",
+          "characters": [
+            "Grimble",
+            "Noctus"
+          ]
+        },
+        {
+          "name": "David Wenham",
+          "id": "326395611",
+          "characters": [
+            "Digger"
+          ]
+        },
+        {
+          "name": "Emily Barclay",
+          "id": "265591383",
+          "characters": [
+            "Gylfie"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1219342"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770866920.json",
+        "alternate": "http://www.rottentomatoes.com/m/legend_of_the_guardians/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770866920/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770866920/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770866920/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770866920/similar.json"
+      }
+    },
+    {
+      "id": "770680916",
+      "title": "Fireflies in the Garden",
+      "year": 2011,
+      "mpaa_rating": "R",
+      "runtime": 98,
+      "critics_consensus": "Despite boasting a stellar cast, Fireflies in the Garden is just tedious, dull and predictable melodrama. Instantly forgettable.",
+      "release_dates": {
+        "theater": "2011-10-14",
+        "dvd": "2012-02-07"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 20,
+        "audience_rating": "Spilled",
+        "audience_score": 46
+      },
+      "synopsis": "To an outsider, the Taylors are the very picture of the successful American family: Charles (Willem Dafoe) is a tenured professor on track to become university president, son Michael (Ryan Reynolds) is a prolific and well-known romance novelist, daughter Ryne (Shannon Lucio) is poised to enter a prestigious law school, and on the day we are introduced to them, matriarch Lisa (Julia Roberts) will graduate from college-decades after leaving to raise her children. But when a serious accident interrupts the celebration, the far more nuanced reality of this Midwestern family's history and relationships come to light. -- (C) Senator",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/16/05/11160563_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/16/05/11160563_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/16/05/11160563_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/16/05/11160563_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Julia Roberts",
+          "id": "162659460",
+          "characters": [
+            "Lisa Taylor"
+          ]
+        },
+        {
+          "name": "Ryan Reynolds",
+          "id": "162652367",
+          "characters": [
+            "Michael Taylor"
+          ]
+        },
+        {
+          "name": "Willem Dafoe",
+          "id": "162668400",
+          "characters": [
+            "Charles Taylor"
+          ]
+        },
+        {
+          "name": "Emily Watson",
+          "id": "162654016",
+          "characters": [
+            "Jane Lawrence"
+          ]
+        },
+        {
+          "name": "Carrie-Anne Moss",
+          "id": "162669130",
+          "characters": [
+            "Kelly Hanson"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0961108"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770680916.json",
+        "alternate": "http://www.rottentomatoes.com/m/10008601-fireflies_in_the_garden/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770680916/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770680916/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770680916/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770680916/similar.json"
+      }
+    },
+    {
+      "id": "9381",
+      "title": "The Jungle Book",
+      "year": 1967,
+      "mpaa_rating": "PG",
+      "runtime": 78,
+      "critics_consensus": "With expressive animation, fun characters, and catchy songs, The Jungle Book endures as a crowd-pleasing Disney classic.",
+      "release_dates": {
+        "theater": "1967-10-18",
+        "dvd": "2014-02-11"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 88,
+        "audience_rating": "Upright",
+        "audience_score": 81
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/25/07/250701_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/25/07/250701_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/25/07/250701_det.jpg",
+        "original": "http://content7.flixster.com/movie/25/07/250701_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Bruce Reitherman",
+          "id": "770703396",
+          "characters": [
+            "Mowgli the Man Cub"
+          ]
+        },
+        {
+          "name": "Phil Harris",
+          "id": "162655698",
+          "characters": [
+            "Baloo the Bear"
+          ]
+        },
+        {
+          "name": "Sebastian Cabot",
+          "id": "162655699",
+          "characters": [
+            "Bagheera the Panther"
+          ]
+        },
+        {
+          "name": "Louis Prima",
+          "id": "162655700",
+          "characters": [
+            "King Louie of the Apes"
+          ]
+        },
+        {
+          "name": "George Sanders",
+          "id": "162656536",
+          "characters": [
+            "Shere Khan the Tiger"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0061852"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/9381.json",
+        "alternate": "http://www.rottentomatoes.com/m/1031385-jungle_book/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/9381/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/9381/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/9381/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/9381/similar.json"
+      }
+    },
+    {
+      "id": "27",
+      "title": "The Pacifier",
+      "year": 2005,
+      "mpaa_rating": "PG",
+      "runtime": 95,
+      "critics_consensus": "Vin Diesel parodies his tough guy image for the family audience, but the result is only moderately amusing.",
+      "release_dates": {
+        "theater": "2005-03-04",
+        "dvd": "2005-06-28"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 20,
+        "audience_rating": "Spilled",
+        "audience_score": 59
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/24/97/249744_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/24/97/249744_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/24/97/249744_det.jpg",
+        "original": "http://content6.flixster.com/movie/24/97/249744_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Lauren Graham",
+          "id": "162652473",
+          "characters": [
+            "Principal Claire Fletcher"
+          ]
+        },
+        {
+          "name": "Vin Diesel",
+          "id": "162652472",
+          "characters": [
+            "Shane Wolf"
+          ]
+        },
+        {
+          "name": "Faith Ford",
+          "id": "162652475",
+          "characters": [
+            "Julie Plummer"
+          ]
+        },
+        {
+          "name": "Brittany Snow",
+          "id": "162652474",
+          "characters": [
+            "Zoe"
+          ]
+        },
+        {
+          "name": "Chris Potter",
+          "id": "561407154",
+          "characters": [
+            "Capt. Bill Fawcett"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0395699"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/27.json",
+        "alternate": "http://www.rottentomatoes.com/m/pacifier/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/27/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/27/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/27/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/27/similar.json"
+      }
+    },
+    {
+      "id": "10203",
+      "title": "The Family Man",
+      "year": 2000,
+      "mpaa_rating": "PG-13",
+      "runtime": 125,
+      "critics_consensus": "Despite good performances by Cage and especially by Leoni, The Family Man is too predictable and derivative to add anything new to the Christmas genre. Also, it sinks under its sentimentality.",
+      "release_dates": {
+        "theater": "2000-12-22",
+        "dvd": "2001-07-17"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 53,
+        "audience_rating": "Upright",
+        "audience_score": 68
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/10/84/98/10849849_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/10/84/98/10849849_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/10/84/98/10849849_det.jpg",
+        "original": "http://content7.flixster.com/movie/10/84/98/10849849_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Nicolas Cage",
+          "id": "162653923",
+          "characters": [
+            "Jack Campbell"
+          ]
+        },
+        {
+          "name": "Tea Leoni",
+          "id": "162660741",
+          "characters": [
+            "Kate"
+          ]
+        },
+        {
+          "name": "Don Cheadle",
+          "id": "162652206",
+          "characters": [
+            "Cash"
+          ]
+        },
+        {
+          "name": "Jeremy Piven",
+          "id": "162654464",
+          "characters": [
+            "Arnie"
+          ]
+        },
+        {
+          "name": "Saul Rubinek",
+          "id": "364644979",
+          "characters": [
+            "Alan Mintz"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0218967"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/10203.json",
+        "alternate": "http://www.rottentomatoes.com/m/family_man/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/10203/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/10203/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/10203/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/10203/similar.json"
+      }
+    },
+    {
+      "id": "10051",
+      "title": "The Wedding Date",
+      "year": 2005,
+      "mpaa_rating": "PG-13",
+      "runtime": 89,
+      "critics_consensus": "Critics are leaving The Wedding Date at the alter, calling it shopworn, bland, and lightweight.",
+      "release_dates": {
+        "theater": "2005-02-04",
+        "dvd": "2005-08-16"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 10,
+        "audience_rating": "Upright",
+        "audience_score": 68
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/10/89/24/10892423_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/10/89/24/10892423_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/10/89/24/10892423_det.jpg",
+        "original": "http://content9.flixster.com/movie/10/89/24/10892423_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Debra Messing",
+          "id": "162659475",
+          "characters": [
+            "Kat Ellis"
+          ]
+        },
+        {
+          "name": "Dermot Mulroney",
+          "id": "162652930",
+          "characters": [
+            "Nick Mercer"
+          ]
+        },
+        {
+          "name": "Amy Adams",
+          "id": "162653029"
+        },
+        {
+          "name": "Jeremy Sheffield",
+          "id": "364654207"
+        },
+        {
+          "name": "Peter Egan",
+          "id": "770671689"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0372532"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/10051.json",
+        "alternate": "http://www.rottentomatoes.com/m/wedding_date/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/10051/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/10051/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/10051/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/10051/similar.json"
+      }
+    },
+    {
+      "id": "770686760",
+      "title": "The Fall",
+      "year": 2006,
+      "mpaa_rating": "R",
+      "runtime": 117,
+      "critics_consensus": "More visually elaborate than the fragmented story can sometimes support, The Fall walks the line between labor of love and filmmaker self-indulgence.",
+      "release_dates": {
+        "theater": "2006-09-09",
+        "dvd": "2008-09-09"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 59,
+        "audience_rating": "Upright",
+        "audience_score": 85
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/10/87/50/10875031_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/10/87/50/10875031_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/10/87/50/10875031_det.jpg",
+        "original": "http://content9.flixster.com/movie/10/87/50/10875031_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Lee Pace",
+          "id": "493815806",
+          "characters": [
+            "Roy Walker"
+          ]
+        },
+        {
+          "name": "Catinca Untaru",
+          "id": "770688413",
+          "characters": [
+            "Alexandria"
+          ]
+        },
+        {
+          "name": "Justine Waddell",
+          "id": "162688942",
+          "characters": [
+            "Nurse Evelyn/Princess Evelyn"
+          ]
+        },
+        {
+          "name": "Robin Smith",
+          "id": "770701833",
+          "characters": [
+            "Luigi/One-Legged Actor"
+          ]
+        },
+        {
+          "name": "Julian Bleach",
+          "id": "770688414",
+          "characters": [
+            "Mystic/Orange Picker"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0460791"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770686760.json",
+        "alternate": "http://www.rottentomatoes.com/m/the-fall-2008/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770686760/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770686760/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770686760/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770686760/similar.json"
+      }
+    },
+    {
+      "id": "10757",
+      "title": "Atlantis - The Lost Empire",
+      "year": 2001,
+      "mpaa_rating": "PG",
+      "runtime": 95,
+      "critics_consensus": "Atlantis provides a fast-paced spectacle, but stints on such things as character development and a coherent plot.",
+      "release_dates": {
+        "theater": "2001-06-15",
+        "dvd": "2002-01-29"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 49,
+        "audience_rating": "Spilled",
+        "audience_score": 51
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/25/73/257314_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/25/73/257314_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/25/73/257314_det.jpg",
+        "original": "http://content8.flixster.com/movie/25/73/257314_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Michael J. Fox",
+          "id": "162656043",
+          "characters": [
+            "Milo James Thatch"
+          ]
+        },
+        {
+          "name": "James Garner",
+          "id": "162657112",
+          "characters": [
+            "Commander Lyle T. Rourke"
+          ]
+        },
+        {
+          "name": "Cree Summer",
+          "id": "162656769",
+          "characters": [
+            "Princess Kidagakash \"Kida\""
+          ]
+        },
+        {
+          "name": "Leonard Nimoy",
+          "id": "162664667",
+          "characters": [
+            "Kashekim Nedakh \"King of Atlantis\""
+          ]
+        },
+        {
+          "name": "Don Novello",
+          "id": "238444468",
+          "characters": [
+            "Vincenzo \"Vinny\" Santorini"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0230011"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/10757.json",
+        "alternate": "http://www.rottentomatoes.com/m/atlantis_the_lost_empire/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/10757/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/10757/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/10757/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/10757/similar.json"
+      }
+    },
+    {
+      "id": "436549912",
+      "title": "The Ten",
+      "year": 2007,
+      "mpaa_rating": "R",
+      "runtime": 99,
+      "critics_consensus": "Although a few of the sketches that make up The Ten are humorous, the uneven and random tone of the film cause it to fall apart.",
+      "release_dates": {
+        "theater": "2007-01-19",
+        "dvd": "2008-01-15"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 37,
+        "audience_rating": "Spilled",
+        "audience_score": 40
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/10/69/44/10694404_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/10/69/44/10694404_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/10/69/44/10694404_det.jpg",
+        "original": "http://content6.flixster.com/movie/10/69/44/10694404_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Paul Rudd",
+          "id": "162653309",
+          "characters": [
+            "Jeff Reigert"
+          ]
+        },
+        {
+          "name": "Famke Janssen",
+          "id": "162669246",
+          "characters": [
+            "Gretchen Reigert"
+          ]
+        },
+        {
+          "name": "Gretchen Mol",
+          "id": "162694649",
+          "characters": [
+            "Gloria Jennings"
+          ]
+        },
+        {
+          "name": "Winona Ryder",
+          "id": "162659115",
+          "characters": [
+            "Kelly La Fonda"
+          ]
+        },
+        {
+          "name": "Jessica Alba",
+          "id": "162652782",
+          "characters": [
+            "Liz Anne Blazer"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0811106"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/436549912.json",
+        "alternate": "http://www.rottentomatoes.com/m/10007947-ten/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/436549912/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/436549912/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/436549912/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/436549912/similar.json"
+      }
+    },
+    {
+      "id": "771022182",
+      "title": "The Mechanic",
+      "year": 2011,
+      "mpaa_rating": "R",
+      "runtime": 92,
+      "critics_consensus": "Jason Statham and Ben Foster turn in enjoyable performances, but this superficial remake betrays them with mind-numbing violence and action thriller cliches.",
+      "release_dates": {
+        "theater": "2011-01-28",
+        "dvd": "2011-05-17"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 53,
+        "audience_rating": "Spilled",
+        "audience_score": 51
+      },
+      "synopsis": "Arthur Bishop (Jason Statham) is a 'mechanic' - an elite assassin with a strict code and unique talent for cleanly eliminating targets. It's a job that requires professional perfection and total detachment, and Bishop is the best in the business. But when his mentor and close friend Harry (Donald Sutherland) is murdered, Bishop is anything but detached. His next assignment is self-imposed - he wants those responsible dead. <br /><br /> His mission grows complicated when Harry's son Steve (Ben Foster) approaches him with the same vengeful goal and a determination to learn Bishop's trade. Bishop has always acted alone but he can't turn his back on Harry's son. A methodical hit man takes an impulsive student deep into his world and a deadly partnership is born. But while in pursuit of their ultimate mark, deceptions threaten to surface and those hired to fix problems become problems themselves. -- (C) CBS films",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/15/42/11154267_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/15/42/11154267_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/15/42/11154267_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/15/42/11154267_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Jason Statham",
+          "id": "162653720",
+          "characters": [
+            "Arthur Bishop"
+          ]
+        },
+        {
+          "name": "Ben Foster",
+          "id": "162669838",
+          "characters": [
+            "Steve",
+            "Steve McKenna"
+          ]
+        },
+        {
+          "name": "Tony Goldwyn",
+          "id": "162656408",
+          "characters": [
+            "Dean Sanderson"
+          ]
+        },
+        {
+          "name": "Donald Sutherland",
+          "id": "162655293",
+          "characters": [
+            "Harry",
+            "Harry McKenna"
+          ]
+        },
+        {
+          "name": "Jeff Chase",
+          "id": "770738695",
+          "characters": [
+            "Burke"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0472399"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771022182.json",
+        "alternate": "http://www.rottentomatoes.com/m/mechanic/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771022182/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771022182/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771022182/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771022182/similar.json"
+      }
+    },
+    {
+      "id": "287864910",
+      "title": "The Wicker Man",
+      "year": 2006,
+      "mpaa_rating": "PG-13",
+      "runtime": 106,
+      "critics_consensus": "Puzzlingly misguided, Neil LaBute's update The Wicker Man struggles against unintentional comedy and fails.",
+      "release_dates": {
+        "theater": "2006-09-01",
+        "dvd": "2006-12-19"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 15,
+        "audience_rating": "Spilled",
+        "audience_score": 17
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/22/75/23/2275230_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/22/75/23/2275230_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/22/75/23/2275230_det.jpg",
+        "original": "http://content8.flixster.com/movie/22/75/23/2275230_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Nicolas Cage",
+          "id": "162653923",
+          "characters": [
+            "Edward Malus"
+          ]
+        },
+        {
+          "name": "Ellen Burstyn",
+          "id": "162660525",
+          "characters": [
+            "Sister Summerisle"
+          ]
+        },
+        {
+          "name": "Molly Parker",
+          "id": "162709599",
+          "characters": [
+            "Sister Thorn"
+          ]
+        },
+        {
+          "name": "Leelee Sobieski",
+          "id": "162672223",
+          "characters": [
+            "Sister Honey"
+          ]
+        },
+        {
+          "name": "Kate Beahan",
+          "id": "326433871",
+          "characters": [
+            "Sister Willow"
+          ]
+        }
+      ],
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/287864910.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_wicker_man_2006/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/287864910/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/287864910/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/287864910/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/287864910/similar.json"
+      }
+    },
+    {
+      "id": "16212",
+      "title": "Legends of the Fall",
+      "year": 1994,
+      "mpaa_rating": "R",
+      "runtime": 133,
+      "release_dates": {
+        "theater": "1994-12-23",
+        "dvd": "1997-04-29"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 62,
+        "audience_rating": "Upright",
+        "audience_score": 88
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/11/16/93/11169369_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/11/16/93/11169369_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/11/16/93/11169369_det.jpg",
+        "original": "http://content7.flixster.com/movie/11/16/93/11169369_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Brad Pitt",
+          "id": "162652627",
+          "characters": [
+            "Tristan Ludlow"
+          ]
+        },
+        {
+          "name": "Anthony Hopkins",
+          "id": "162653967",
+          "characters": [
+            "Col. William Ludlow"
+          ]
+        },
+        {
+          "name": "Aidan Quinn",
+          "id": "162669858",
+          "characters": [
+            "Alfred Ludlow"
+          ]
+        },
+        {
+          "name": "Henry Thomas",
+          "id": "162661716",
+          "characters": [
+            "Samuel Ludlow"
+          ]
+        },
+        {
+          "name": "Karina Lombard",
+          "id": "162704686",
+          "characters": [
+            "Isabel Two"
+          ]
+        }
+      ],
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/16212.json",
+        "alternate": "http://www.rottentomatoes.com/m/legends_of_the_fall/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/16212/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/16212/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/16212/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/16212/similar.json"
+      }
+    },
+    {
+      "id": "11605",
+      "title": "The Lost World - Jurassic Park",
+      "year": 1997,
+      "mpaa_rating": "PG-13",
+      "runtime": 134,
+      "release_dates": {
+        "theater": "1997-05-23",
+        "dvd": "2000-10-10"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 52,
+        "audience_rating": "Spilled",
+        "audience_score": 51
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/16/88/11168888_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/16/88/11168888_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/16/88/11168888_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/16/88/11168888_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Jeff Goldblum",
+          "id": "162668455",
+          "characters": [
+            "Ian Malcolm"
+          ]
+        },
+        {
+          "name": "Julianne Moore",
+          "id": "162654248",
+          "characters": [
+            "Sarah Harding"
+          ]
+        },
+        {
+          "name": "Pete Postlethwaite",
+          "id": "162652858",
+          "characters": [
+            "Roland Tembo"
+          ]
+        },
+        {
+          "name": "Thomas F. Duffy",
+          "id": "770677685",
+          "characters": [
+            "Robert Burke"
+          ]
+        },
+        {
+          "name": "Arliss Howard",
+          "id": "162654516",
+          "characters": [
+            "Peter Ludlow"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0119567"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/11605.json",
+        "alternate": "http://www.rottentomatoes.com/m/lost_world_jurassic_park/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/11605/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/11605/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/11605/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/11605/similar.json"
+      }
+    },
+    {
+      "id": "771240536",
+      "title": "The Devil Inside",
+      "year": 2012,
+      "mpaa_rating": "R",
+      "runtime": 83,
+      "critics_consensus": "The Devil Inside is a cheap, choppy unscary mess, featuring one of the worst endings in recent memory.",
+      "release_dates": {
+        "theater": "2012-01-06",
+        "dvd": "2012-05-15"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 6,
+        "audience_rating": "Spilled",
+        "audience_score": 22
+      },
+      "synopsis": "In 1989, emergency responders received a 9-1-1 call from Maria Rossi (Suzan Crowley) confessing that she had brutally killed three people. 20 years later, her daughter Isabella (Fernanda Andrade) seeks to understand the truth about what happened that night. She travels to the Centrino Hospital for the Criminally Insane in Italy where her mother has been locked away to determine if her mother is mentally ill or demonically possessed. When she recruits two young exorcists (Simon Quarterman and Evan Helmuth) to cure her mom using unconventional methods combining both science and religion, they come face-to-face with pure evil in the form of four powerful demons possessing Maria. Many have been possessed by one; only one has been possessed by many. -- (C) Paramount Insurge",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/16/89/11168932_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/16/89/11168932_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/16/89/11168932_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/16/89/11168932_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Fernanda Andrade",
+          "id": "770877709",
+          "characters": [
+            "Isabella Rossi"
+          ]
+        },
+        {
+          "name": "Simon Quarterman",
+          "id": "770785895",
+          "characters": [
+            "Ben"
+          ]
+        },
+        {
+          "name": "Evan Helmuth",
+          "id": "770832343",
+          "characters": [
+            "David"
+          ]
+        },
+        {
+          "name": "Suzan Crowley",
+          "id": "770681535",
+          "characters": [
+            "Maria Rossi"
+          ]
+        },
+        {
+          "name": "Danny Trejo",
+          "id": "358124392"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1560985"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771240536.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_devil_inside/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771240536/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771240536/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771240536/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771240536/similar.json"
+      }
+    },
+    {
+      "id": "10078",
+      "title": "The Birds",
+      "year": 1963,
+      "mpaa_rating": "PG-13",
+      "runtime": 119,
+      "critics_consensus": "Proving once again that build-up is the key to suspense, Alfred Hitchcock successfully turned birds into some of the most terrifying villains in horror history.",
+      "release_dates": {
+        "theater": "1963-03-28",
+        "dvd": "2000-03-28"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 96,
+        "audience_rating": "Upright",
+        "audience_score": 83
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/10/83/82/10838298_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/10/83/82/10838298_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/10/83/82/10838298_det.jpg",
+        "original": "http://content8.flixster.com/movie/10/83/82/10838298_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Rod Taylor",
+          "id": "162655937",
+          "characters": [
+            "Mitch Brenner"
+          ]
+        },
+        {
+          "name": "Tippi Hedren",
+          "id": "162660015",
+          "characters": [
+            "Melanie Daniels"
+          ]
+        },
+        {
+          "name": "Jessica Tandy",
+          "id": "162660151",
+          "characters": [
+            "Lydia Brenner"
+          ]
+        },
+        {
+          "name": "Suzanne Pleshette",
+          "id": "162657676",
+          "characters": [
+            "Annie Hayworth"
+          ]
+        },
+        {
+          "name": "Veronica Cartwright",
+          "id": "326298056",
+          "characters": [
+            "Cathy Brenner"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0056869"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/10078.json",
+        "alternate": "http://www.rottentomatoes.com/m/1002448-birds/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/10078/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/10078/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/10078/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/10078/similar.json"
+      }
+    },
+    {
+      "id": "22489",
+      "title": "The Mask of Zorro",
+      "year": 1998,
+      "mpaa_rating": "PG-13",
+      "runtime": 136,
+      "critics_consensus": "Banderas returns as an aging Zorro in this surprisingly nimble, entertaining swashbuckler.",
+      "release_dates": {
+        "theater": "1998-07-17",
+        "dvd": "1998-12-01"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 83,
+        "audience_rating": "Upright",
+        "audience_score": 72
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/11/16/95/11169594_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/11/16/95/11169594_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/11/16/95/11169594_det.jpg",
+        "original": "http://content8.flixster.com/movie/11/16/95/11169594_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Antonio Banderas",
+          "id": "162654885",
+          "characters": [
+            "Alejandro Murrieta/Zorro"
+          ]
+        },
+        {
+          "name": "Anthony Hopkins",
+          "id": "162653967",
+          "characters": [
+            "Don Diego de la Vega"
+          ]
+        },
+        {
+          "name": "Catherine Zeta-Jones",
+          "id": "162654886",
+          "characters": [
+            "Elena"
+          ]
+        },
+        {
+          "name": "Stuart Wilson",
+          "id": "381973996",
+          "characters": [
+            "Don Rafael Montero"
+          ]
+        },
+        {
+          "name": "Matt Letscher",
+          "id": "364659157",
+          "characters": [
+            "Capt. Harrison Love"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0120746"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/22489.json",
+        "alternate": "http://www.rottentomatoes.com/m/mask_of_zorro/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/22489/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/22489/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/22489/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/22489/similar.json"
+      }
+    },
+    {
+      "id": "770808364",
+      "title": "Going the Distance",
+      "year": 2010,
+      "mpaa_rating": "R",
+      "runtime": 97,
+      "critics_consensus": "It's timelier and a little more honest than most romantic comedies, but Drew Barrymore and Justin Long's screen chemistry doesn't make up for Going the Distance's overall flatness.",
+      "release_dates": {
+        "theater": "2010-09-03",
+        "dvd": "2010-11-30"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 53,
+        "audience_rating": "Spilled",
+        "audience_score": 53
+      },
+      "synopsis": "Erin's (Drew Barrymore) wry wit and unfiltered frankness charm newly single Garrett (Justin Long) over beer, bar trivia and breakfast the next morning. Their chemistry sparks a full-fledged summer fling, but neither expects it to last once Erin heads home to San Francisco and Garrett stays behind for his job in New York City. But when six weeks of romping through the city inadvertently become meaningful, neither is sure they want it to end. And while Garrett's friends Box (Jason Sudeikis) and Dan (Charlie Day) joke about his pre-flight calorie-cutting and his full-time relationship with his cell phone, they don't like losing their best drinking buddy to yet another rocky romance. At the same time, Erin's high-strung, overprotective married sister, Corinne (Christina Applegate), wants to keep Erin from heading down an all-too-familiar road. But despite the opposite coasts, the nay-saying friends and family, and a few unexpected temptations, the couple just might have found something like love, and with the help of a lot of texting, sexting and late-night phone calls, they might actually go the distance.-- (C) Warner Bros",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/14/76/11147668_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/14/76/11147668_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/14/76/11147668_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/14/76/11147668_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Drew Barrymore",
+          "id": "162652402",
+          "characters": [
+            "Erin"
+          ]
+        },
+        {
+          "name": "Justin Long",
+          "id": "162652679",
+          "characters": [
+            "Garrett"
+          ]
+        },
+        {
+          "name": "Charlie Day",
+          "id": "770729280",
+          "characters": [
+            "Dan"
+          ]
+        },
+        {
+          "name": "Jason Sudeikis",
+          "id": "770702194",
+          "characters": [
+            "Box"
+          ]
+        },
+        {
+          "name": "Christina Applegate",
+          "id": "162663389",
+          "characters": [
+            "Corrine"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1322312"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770808364.json",
+        "alternate": "http://www.rottentomatoes.com/m/10012042-going_the_distance/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770808364/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770808364/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770808364/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770808364/similar.json"
+      }
+    },
+    {
+      "id": "13541",
+      "title": "Queen of the Damned",
+      "year": 2002,
+      "mpaa_rating": "R",
+      "runtime": 101,
+      "critics_consensus": "A muddled and campy MTV-styled vampire movie with lots of eye candy and bad accents.",
+      "release_dates": {
+        "theater": "2002-02-22",
+        "dvd": "2002-08-27"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 17,
+        "audience_rating": "Upright",
+        "audience_score": 67
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/16/97/11169724_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/16/97/11169724_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/16/97/11169724_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/16/97/11169724_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Aaliyah",
+          "id": "162692322",
+          "characters": [
+            "Queen Akasha"
+          ]
+        },
+        {
+          "name": "Stuart Townsend",
+          "id": "162662242",
+          "characters": [
+            "Lestat"
+          ]
+        },
+        {
+          "name": "Vincent Perez",
+          "id": "162671289",
+          "characters": [
+            "Marius"
+          ]
+        },
+        {
+          "name": "Paul McGann",
+          "id": "162664379",
+          "characters": [
+            "David Talbot"
+          ]
+        },
+        {
+          "name": "Lena Olin",
+          "id": "162677620",
+          "characters": [
+            "Maharet"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0238546"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/13541.json",
+        "alternate": "http://www.rottentomatoes.com/m/queen_of_the_damned/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/13541/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/13541/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/13541/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/13541/similar.json"
+      }
+    },
+    {
+      "id": "770785664",
+      "title": "The Haunting of Molly Hartley",
+      "year": 2008,
+      "mpaa_rating": "PG-13",
+      "runtime": 86,
+      "critics_consensus": "The Haunting of Molly Hartley is a rather lifeless horror endeavor, with a pedestrian plot and few scares.",
+      "release_dates": {
+        "theater": "2008-10-31",
+        "dvd": "2009-02-24"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 3,
+        "audience_rating": "Spilled",
+        "audience_score": 18
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/11/16/48/11164873_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/11/16/48/11164873_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/11/16/48/11164873_det.jpg",
+        "original": "http://content7.flixster.com/movie/11/16/48/11164873_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Haley Bennett",
+          "id": "770768361",
+          "characters": [
+            "Molly Hartley"
+          ]
+        },
+        {
+          "name": "Chace Crawford",
+          "id": "326299815",
+          "characters": [
+            "Joseph Young"
+          ]
+        },
+        {
+          "name": "Shannon Marie Woodward",
+          "id": "770773944",
+          "characters": [
+            "Leah"
+          ]
+        },
+        {
+          "name": "Jake Weber",
+          "id": "162727373",
+          "characters": [
+            "Mr. Hartley"
+          ]
+        },
+        {
+          "name": "AnnaLynne McCord",
+          "id": "770692580",
+          "characters": [
+            "Suzy"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1045655"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770785664.json",
+        "alternate": "http://www.rottentomatoes.com/m/haunting_of_molly_hartley/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770785664/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770785664/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770785664/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770785664/similar.json"
+      }
+    },
+    {
+      "id": "771092231",
+      "title": "The Three Musketeers",
+      "year": 2011,
+      "mpaa_rating": "PG-13",
+      "runtime": 110,
+      "critics_consensus": "It plays admirably fast and loose with Alexandre Dumas' classic tale, but in every other respect, The Three Musketeers offers nothing to recommend -- or to set it apart from the many other film adaptations.",
+      "release_dates": {
+        "theater": "2011-10-21",
+        "dvd": "2012-03-13"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 24,
+        "audience_rating": "Spilled",
+        "audience_score": 40
+      },
+      "synopsis": "The hot-headed young D'Artagnan (Logan Lerman) joins forces with three rogue Musketeers (Matthew MacFadyen, Luke Evans and Ray Stevenson) in this reboot of Alexandre Dumas' story. They must stop the evil Richlieu (Christoph Waltz) and face off with Buckingham (Orlando Bloom) and the treacherous Milady (Milla Jovovich). The action adventure is given a state of the art update in 3-D. -- (C) Summit",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/15/80/11158075_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/15/80/11158075_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/15/80/11158075_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/15/80/11158075_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Alexei Makarov",
+          "id": "771469898"
+        },
+        {
+          "name": "Philip Jankowski",
+          "id": "771469899"
+        },
+        {
+          "name": "Yuri Chursin",
+          "id": "359854578"
+        },
+        {
+          "name": "Logan Lerman",
+          "id": "341816559",
+          "characters": [
+            "D'Artagnan"
+          ]
+        },
+        {
+          "name": "Milla Jovovich",
+          "id": "162664693",
+          "characters": [
+            "Milady de Winter"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1509767"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771092231.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_three_musketeers_2011/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771092231/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771092231/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771092231/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771092231/similar.json"
+      }
+    },
+    {
+      "id": "11568",
+      "title": "The Mask",
+      "year": 1994,
+      "mpaa_rating": "PG-13",
+      "runtime": 101,
+      "critics_consensus": "It misses perhaps as often as it hits, but Jim Carrey's manic bombast, Cameron Diaz' blowsy appeal, and the film's overall cartoony bombast keep The Mask afloat.",
+      "release_dates": {
+        "theater": "1994-07-29",
+        "dvd": "2001-02-06"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 77,
+        "audience_rating": "Upright",
+        "audience_score": 67
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/17/39/11173943_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/17/39/11173943_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/17/39/11173943_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/17/39/11173943_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Jim Carrey",
+          "id": "162659418",
+          "characters": [
+            "The Mask/Stanley Ipkiss"
+          ]
+        },
+        {
+          "name": "Cameron Diaz",
+          "id": "162654443",
+          "characters": [
+            "Tina Carlyle"
+          ]
+        },
+        {
+          "name": "Peter Riegert",
+          "id": "162662375",
+          "characters": [
+            "Lt. Mitch Kellaway"
+          ]
+        },
+        {
+          "name": "Peter Greene",
+          "id": "364625913",
+          "characters": [
+            "Dorian Tyrel"
+          ]
+        },
+        {
+          "name": "Amy Yasbeck",
+          "id": "312220754",
+          "characters": [
+            "Peggy Brandt"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0110475"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/11568.json",
+        "alternate": "http://www.rottentomatoes.com/m/1053779-mask/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/11568/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/11568/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/11568/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/11568/similar.json"
+      }
+    },
+    {
+      "id": "771041142",
+      "title": "The Rite",
+      "year": 2011,
+      "mpaa_rating": "PG-13",
+      "runtime": 114,
+      "critics_consensus": "Anthony Hopkins is as excellent as ever, but he's no match for The Rite's dawdling pace and lack of chills -- or Colin O'Donoghue's tentative performance in the leading role.",
+      "release_dates": {
+        "theater": "2011-01-28",
+        "dvd": "2011-05-17"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 21,
+        "audience_rating": "Spilled",
+        "audience_score": 41
+      },
+      "synopsis": "\"The battle against the Devil, which is the principal task of Saint Michael the Archangel, is still being fought today, because the Devil is still alive and active in the world.\" -Pope John Paul II \"The Rite\" is a supernatural thriller that uncovers the Devil's reach to even one of the holiest places on Earth. Inspired by true events, the film follows seminary student Michael Kovak (Colin O'Donoghue), who is sent to study exorcism at the Vatican in spite of his own doubts about the controversial practice and even his own faith. Wearing his deep skepticism like armor, Michael challenges his superiors to look to psychiatry, rather than demons, in treating the possessed. Only when he's sent to apprentice with the unorthodox Father Lucas (Anthony Hopkins)--a legendary priest who has performed thousands of exorcisms--does Michael's armor begin to fall. As he is drawn into a troubling case that seems to transcend even Father Lucas's skill, he begins to glimpse a phenomenon science can't explain or control...and an evil so violent and terrifying that it forces him to question everything he believes. Directed by Mikael Hafstrom (\"1408\"), \"The Rite\" stars Oscar (R) winner Anthony Hopkins (\"Silence of the Lambs\"), Colin O'Donoghue in his feature film debut, Alice Braga (\"Predators\"), Toby Jones (\"Frost/Nixon\"), with Ciaran Hinds (\"Harry Potter and the Deathly Hallows - Part 2\"), and Rutger Hauer (\"Batman Begins,\" \"Blade Runner\"). Beau Flynn and Tripp Vinson (\"The Exorcism of Emily Rose\") produced the film under their Contrafilm banner. The screenplay is by Michael Petroni (\"The Chronicles of Narnia: The Voyage of the Dawn Treader\"), suggested by the book by Matt Baglio. Richard Brener, Merideth Finn and Robert Bernacchi serve as executive producers, with Mark Tuohy co-producing. New Line Cinema presents, a Contrafilm production, a Mikael Hafstrom film, \"The Rite.\" The film will be distributed by Warner Bros. Pictures, a Warner Bros. Entertainment Company. This film has been rated PG-13 for disturbing thematic material, violence, frightening images and language including sexual references. -- (C) Warner Bros.",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/11/15/53/11155313_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/11/15/53/11155313_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/11/15/53/11155313_det.jpg",
+        "original": "http://content7.flixster.com/movie/11/15/53/11155313_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Anthony Hopkins",
+          "id": "162653967",
+          "characters": [
+            "Father Lucas Trevant"
+          ]
+        },
+        {
+          "name": "Colin O'Donoghue",
+          "id": "771094006",
+          "characters": [
+            "Michael Kovak"
+          ]
+        },
+        {
+          "name": "Alice Braga",
+          "id": "326394052",
+          "characters": [
+            "Angeline"
+          ]
+        },
+        {
+          "name": "Ciaran Hinds",
+          "id": "162659596",
+          "characters": [
+            "Father Xavier"
+          ]
+        },
+        {
+          "name": "Toby Jones",
+          "id": "326393436",
+          "characters": [
+            "Father Matthew"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1161864"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771041142.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_rite/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771041142/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771041142/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771041142/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771041142/similar.json"
+      }
+    },
+    {
+      "id": "9373",
+      "title": "The Little Mermaid",
+      "year": 1989,
+      "mpaa_rating": "G",
+      "runtime": 85,
+      "critics_consensus": "The Little Mermaid ushered in a new golden era for Disney animation with warm and charming hand-drawn characters and catchy musical sequences.",
+      "release_dates": {
+        "theater": "1989-01-01",
+        "dvd": "1999-12-07"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 92,
+        "audience_rating": "Upright",
+        "audience_score": 88
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/25/06/250622_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/25/06/250622_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/25/06/250622_det.jpg",
+        "original": "http://content8.flixster.com/movie/25/06/250622_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Jodi Benson",
+          "id": "162655648",
+          "characters": [
+            "Ariel"
+          ]
+        },
+        {
+          "name": "Pat Carroll",
+          "id": "162656147",
+          "characters": [
+            "Ursula"
+          ]
+        },
+        {
+          "name": "Sam E. Wright",
+          "id": "770728087",
+          "characters": [
+            "Sebastian"
+          ]
+        },
+        {
+          "name": "Kenneth Mars",
+          "id": "770671500",
+          "characters": [
+            "Triton"
+          ]
+        },
+        {
+          "name": "Buddy Hackett",
+          "id": "382673822",
+          "characters": [
+            "Scuttle"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0097757"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/9373.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_little_mermaid_1989/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/9373/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/9373/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/9373/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/9373/similar.json"
+      }
+    },
+    {
+      "id": "770808692",
+      "title": "The White Ribbon (Das weisse Band)",
+      "year": 2009,
+      "mpaa_rating": "R",
+      "runtime": 144,
+      "critics_consensus": "The White Ribbon effectively utilizes tension and a bleak atmosphere to deliver a thought-provoking examination of nascent fascism.",
+      "release_dates": {
+        "theater": "2009-12-30",
+        "dvd": "2010-06-29"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 85,
+        "audience_rating": "Upright",
+        "audience_score": 78
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/10/90/27/10902706_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/10/90/27/10902706_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/10/90/27/10902706_det.jpg",
+        "original": "http://content8.flixster.com/movie/10/90/27/10902706_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Christian Friedel",
+          "id": "770921183",
+          "characters": [
+            "The Schoolteacher"
+          ]
+        },
+        {
+          "name": "Ernst Jacobi",
+          "id": "770674975",
+          "characters": [
+            "The Narrator"
+          ]
+        },
+        {
+          "name": "Leonie Benesch",
+          "id": "770839222",
+          "characters": [
+            "Eva"
+          ]
+        },
+        {
+          "name": "Ulrich Tukur",
+          "id": "162682573",
+          "characters": [
+            "The Baron"
+          ]
+        },
+        {
+          "name": "Ursina Lardi",
+          "id": "770669878",
+          "characters": [
+            "Marie-Louise the Baroness"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1149362"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770808692.json",
+        "alternate": "http://www.rottentomatoes.com/m/white_ribbon/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770808692/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770808692/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770808692/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770808692/similar.json"
+      }
+    },
+    {
+      "id": "14870",
+      "title": "Thelma & Louise",
+      "year": 1991,
+      "mpaa_rating": "R",
+      "runtime": 130,
+      "critics_consensus": "Simultaneously funny, heartbreaking, and peppered with action, Ridley Scott's Thelma & Louise is a potent, well-acted road movie that transcends the feminist message at its core.",
+      "release_dates": {
+        "theater": "1991-05-24",
+        "dvd": "2003-02-04"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 83,
+        "audience_rating": "Upright",
+        "audience_score": 82
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/27/67/276712_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/27/67/276712_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/27/67/276712_det.jpg",
+        "original": "http://content6.flixster.com/movie/27/67/276712_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Susan Sarandon",
+          "id": "162654579",
+          "characters": [
+            "Louise Sawyer"
+          ]
+        },
+        {
+          "name": "Geena Davis",
+          "id": "162659514",
+          "characters": [
+            "Thelma Dickinson"
+          ]
+        },
+        {
+          "name": "Harvey Keitel",
+          "id": "162664761",
+          "characters": [
+            "Hal Slocumb"
+          ]
+        },
+        {
+          "name": "Michael Madsen",
+          "id": "162676269",
+          "characters": [
+            "Jimmy"
+          ]
+        },
+        {
+          "name": "Christopher McDonald",
+          "id": "162680629",
+          "characters": [
+            "Darryl"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0103074"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/14870.json",
+        "alternate": "http://www.rottentomatoes.com/m/thelma_and_louise/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/14870/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/14870/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/14870/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/14870/similar.json"
+      }
+    },
+    {
+      "id": "314097343",
+      "title": "The Nativity Story",
+      "year": 2006,
+      "mpaa_rating": "PG",
+      "runtime": 100,
+      "critics_consensus": "The Nativity Story is a dull retelling of a well-worn tale with the look and feel of a high-school production.",
+      "release_dates": {
+        "theater": "2006-12-01",
+        "dvd": "2007-03-20"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 38,
+        "audience_rating": "Upright",
+        "audience_score": 76
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/25/07/70/2507701_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/25/07/70/2507701_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/25/07/70/2507701_det.jpg",
+        "original": "http://content7.flixster.com/movie/25/07/70/2507701_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Keisha Castle-Hughes",
+          "id": "162660158",
+          "characters": [
+            "Mary"
+          ]
+        },
+        {
+          "name": "Oscar Isaac",
+          "id": "364655827",
+          "characters": [
+            "Joseph"
+          ]
+        },
+        {
+          "name": "Hiam Abbass",
+          "id": "326395266",
+          "characters": [
+            "Anna"
+          ]
+        },
+        {
+          "name": "Shaun Toub",
+          "id": "364655828",
+          "characters": [
+            "Joaquim"
+          ]
+        },
+        {
+          "name": "Alexander Siddig",
+          "id": "427819122",
+          "characters": [
+            "The Angel Gabriel"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0762121"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/314097343.json",
+        "alternate": "http://www.rottentomatoes.com/m/nativity_story/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/314097343/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/314097343/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/314097343/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/314097343/similar.json"
+      }
+    },
+    {
+      "id": "13390",
+      "title": "The Whole Nine Yards",
+      "year": 2000,
+      "mpaa_rating": "R",
+      "runtime": 98,
+      "critics_consensus": "Despite a charming cast, The Whole Nine Yards could only tickle half of the critics' funny bones. The other half thought it an underwelming, depressing sitcom.",
+      "release_dates": {
+        "theater": "2000-02-18",
+        "dvd": "2000-07-18"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 45,
+        "audience_rating": "Upright",
+        "audience_score": 65
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/10/92/74/10927469_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/10/92/74/10927469_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/10/92/74/10927469_det.jpg",
+        "original": "http://content7.flixster.com/movie/10/92/74/10927469_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Bruce Willis",
+          "id": "162652509",
+          "characters": [
+            "Jimmy \"The Tulip\" Tudeski"
+          ]
+        },
+        {
+          "name": "Matthew Perry",
+          "id": "162671845",
+          "characters": [
+            "Nicholas \"Oz\" Oseransky"
+          ]
+        },
+        {
+          "name": "Rosanna Arquette",
+          "id": "162671237",
+          "characters": [
+            "Sophie"
+          ]
+        },
+        {
+          "name": "Michael Clarke Duncan",
+          "id": "162669487",
+          "characters": [
+            "Frankie Figs"
+          ]
+        },
+        {
+          "name": "Natasha Henstridge",
+          "id": "162671846",
+          "characters": [
+            "Cynthia"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0190138"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/13390.json",
+        "alternate": "http://www.rottentomatoes.com/m/whole_nine_yards/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/13390/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/13390/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/13390/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/13390/similar.json"
+      }
+    },
+    {
+      "id": "771239477",
+      "title": "Bully",
+      "year": 2012,
+      "mpaa_rating": "PG-13",
+      "runtime": 98,
+      "critics_consensus": "Hard-hitting and gracefully filmed, Bully powerfully delivers an essential message to an audience that may not be able to see it.",
+      "release_dates": {
+        "theater": "2012-04-13",
+        "dvd": "2013-02-12"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 86,
+        "audience_rating": "Upright",
+        "audience_score": 78
+      },
+      "synopsis": "Directed by Sundance and Emmy-award winning filmmaker, Lee Hirsch, Bully is a beautifully cinematic, character-driven documentary. At its heart are those with huge stakes in this issue whose stories each represent a different facet of America's bullying crisis. Bully follows five kids and families over the course of a school year. Stories include two families who have lost children to suicide and a mother awaiting the fate of her 14-year-old daughter who has been incarcerated after bringing a gun on her school bus. With an intimate glimpse into homes, classrooms, cafeterias and principals' offices, the film offers insight into the often cruel world of the lives of bullied children. -- (C) Weinstein",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/16/37/11163744_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/16/37/11163744_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/16/37/11163744_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/16/37/11163744_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Ja'Meya Jackson",
+          "id": "771398955",
+          "characters": [
+            "Ja'Meya Jackson"
+          ]
+        },
+        {
+          "name": "Kelby Johnson",
+          "id": "771398956",
+          "characters": [
+            "Kelby Johnson"
+          ]
+        },
+        {
+          "name": "Londa Johnson",
+          "id": "771398957",
+          "characters": [
+            "Londa Johnson"
+          ]
+        },
+        {
+          "name": "Bob Johnson",
+          "id": "770690367",
+          "characters": [
+            "Bob Johnson"
+          ]
+        },
+        {
+          "name": "Alex Libby",
+          "id": "771398958",
+          "characters": [
+            "Alex Libby"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1682181"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771239477.json",
+        "alternate": "http://www.rottentomatoes.com/m/bully_2012/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771239477/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771239477/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771239477/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771239477/similar.json"
+      }
+    },
+    {
+      "id": "12938",
+      "title": "The Ninth Gate",
+      "year": 1999,
+      "mpaa_rating": "R",
+      "runtime": 132,
+      "critics_consensus": "Even though the film is stylish and atmospheric, critics say The Ninth Gate meanders aimlessly and is often ludicrous. And despite the advertising, there's hardly any chills.",
+      "release_dates": {
+        "theater": "1999-12-24",
+        "dvd": "2000-07-18"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 41,
+        "audience_rating": "Spilled",
+        "audience_score": 58
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/26/73/267302_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/26/73/267302_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/26/73/267302_det.jpg",
+        "original": "http://content8.flixster.com/movie/26/73/267302_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Johnny Depp",
+          "id": "162652817",
+          "characters": [
+            "Dean Corso"
+          ]
+        },
+        {
+          "name": "Frank Langella",
+          "id": "162664308",
+          "characters": [
+            "Boris Balkan"
+          ]
+        },
+        {
+          "name": "Lena Olin",
+          "id": "162677620",
+          "characters": [
+            "Liana Telfer"
+          ]
+        },
+        {
+          "name": "Emmanuelle Seigner",
+          "id": "162703676",
+          "characters": [
+            "The Girl"
+          ]
+        },
+        {
+          "name": "Barbara Jefford",
+          "id": "364633622",
+          "characters": [
+            "Baroness Kessler"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0142688"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/12938.json",
+        "alternate": "http://www.rottentomatoes.com/m/ninth_gate/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/12938/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/12938/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/12938/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/12938/similar.json"
+      }
+    },
+    {
+      "id": "205091258",
+      "title": "The Ant Bully",
+      "year": 2006,
+      "mpaa_rating": "PG",
+      "runtime": 89,
+      "critics_consensus": "Sometimes inventive and witty, this animated adventure into an ant-sized world is a pleasant diversion.",
+      "release_dates": {
+        "theater": "2006-07-28",
+        "dvd": "2006-11-28"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 63,
+        "audience_rating": "Spilled",
+        "audience_score": 43
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/18/56/91/1856919_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/18/56/91/1856919_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/18/56/91/1856919_det.jpg",
+        "original": "http://content9.flixster.com/movie/18/56/91/1856919_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Julia Roberts",
+          "id": "162659460",
+          "characters": [
+            "Hova"
+          ]
+        },
+        {
+          "name": "Nicolas Cage",
+          "id": "162653923",
+          "characters": [
+            "Zoc"
+          ]
+        },
+        {
+          "name": "Meryl Streep",
+          "id": "162654900",
+          "characters": [
+            "Queen"
+          ]
+        },
+        {
+          "name": "Paul Giamatti",
+          "id": "162683649",
+          "characters": [
+            "Stan Beals"
+          ]
+        },
+        {
+          "name": "Zach Tyler Eisen",
+          "id": "326298339",
+          "characters": [
+            "Lucas Nickle"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0429589"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/205091258.json",
+        "alternate": "http://www.rottentomatoes.com/m/ant_bully/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/205091258/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/205091258/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/205091258/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/205091258/similar.json"
+      }
+    }
+  ],
+  "links": {
+    "self": "http://api.rottentomatoes.com/api/public/v1.0/movies.json?q=the&page_limit=50&page=14",
+    "next": "http://api.rottentomatoes.com/api/public/v1.0/movies.json?q=the&page_limit=50&page=15",
+    "prev": "http://api.rottentomatoes.com/api/public/v1.0/movies.json?q=the&page_limit=50&page=13"
+  },
+  "link_template": "http://api.rottentomatoes.com/api/public/v1.0/movies.json?q={search-term}&page_limit={results-per-page}&page={page-number}"
+}
