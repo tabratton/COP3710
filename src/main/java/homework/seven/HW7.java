@@ -37,6 +37,7 @@ public class HW7 {
 
   public static void main(String[] args) throws IOException,
       InterruptedException {
+
     String currentDir = System.getProperty("user.dir");
     String jsonFilesDir = currentDir + "\\movies";
     ObjectMapper mapper = new ObjectMapper();
@@ -59,7 +60,7 @@ public class HW7 {
     for (long i = 1; i <= numFilesToParse; i++) {
       Movies movieArray = mapper.readValue(new File(jsonFilesDir + "\\page"
           + i + ".json"), Movies.class);
-      // Add movie node and actor nodes for that movie.
+      // Add information for each movie to the database.
       for (MovieObject movie : movieArray.getMovies()) {
         addMovieToDatabase(movie);
       }
@@ -71,8 +72,9 @@ public class HW7 {
 
   private static void createTable() throws
       InterruptedException {
-    ArrayList<AttributeDefinition> attributeDefinitions = new ArrayList<>();
 
+    // Define the required attributes of the table.
+    ArrayList<AttributeDefinition> attributeDefinitions = new ArrayList<>();
     attributeDefinitions.add(new AttributeDefinition()
         .withAttributeName("Title")
         .withAttributeType("S"));
@@ -83,6 +85,7 @@ public class HW7 {
         .withAttributeName("Rating")
         .withAttributeType("S"));
 
+    // Define the primary index hash key and range key.
     ArrayList<KeySchemaElement> tableKeySchema = new ArrayList<>();
     tableKeySchema.add(new KeySchemaElement()
         .withAttributeName("ReleaseYear")
@@ -91,6 +94,7 @@ public class HW7 {
         .withAttributeName("Title")
         .withKeyType(KeyType.RANGE));
 
+    // Define the global secondary index.
     GlobalSecondaryIndex secondaryIndex = new GlobalSecondaryIndex()
         .withIndexName("RatingIndex")
         .withProvisionedThroughput(new ProvisionedThroughput()
@@ -98,14 +102,15 @@ public class HW7 {
             .withWriteCapacityUnits(10L))
         .withProjection(new Projection().withProjectionType(ProjectionType.ALL));
 
+    // Define the hash key for the global secondary index.
     ArrayList<KeySchemaElement> indexKeySchema = new ArrayList<>();
-
     indexKeySchema.add(new KeySchemaElement()
         .withAttributeName("Rating")
         .withKeyType(KeyType.HASH));
 
     secondaryIndex.setKeySchema(indexKeySchema);
 
+    // Create the table with the prepared information.
     CreateTableRequest createTableRequest = new CreateTableRequest()
         .withTableName("Movies")
         .withProvisionedThroughput(new ProvisionedThroughput()
@@ -123,36 +128,44 @@ public class HW7 {
   private static void deleteExistingTable() throws
       InterruptedException {
 
+    // Get the table and delete it if it exists.
     Table table = dynamoDb.getTable("Movies");
     try {
       table.delete();
       table.waitForDelete();
     } catch (ResourceNotFoundException ex) {
-      System.err.println(ex.getMessage());
+      System.err.println("Failed to delete table: Table does not already"
+          + " exist, continuing program.");
     }
   }
 
   private static void addMovieToDatabase(MovieObject movie) {
+
+    // Create an item with the Year, Title, Rating, and Score for that movie.
     Item item = new Item()
         .withPrimaryKey("ReleaseYear", movie.getYear(), "Title", movie
             .getTitle())
         .withString("Rating", movie.getMpaa_rating())
         .withNumber("Score", movie.getRatings().getAudience_score());
     Table table = dynamoDb.getTable("Movies");
+    // Put the item in the table.
     table.putItem(item);
   }
 
   private static void queryOne() {
-    Table table = dynamoDb.getTable("Movies");
 
+    // Associate aliases used in the query with attribute names.
     HashMap<String, String> nameMap = new HashMap<>();
     nameMap.put("#yr", "Year");
     nameMap.put("#tl", "Title");
 
+    // Associate aliases used in the query with actual search values.
     HashMap<String, Object> valueMap = new HashMap<>();
     valueMap.put(":yyyy", 2005);
     valueMap.put(":bgw", "The P");
 
+    // Define a query that matches with the hash key and filters results with
+    // the range key.
     QuerySpec spec = new QuerySpec()
         .withKeyConditionExpression("#y = :v_year and begins_with (#t,"
             + " :v_title)")
@@ -164,8 +177,11 @@ public class HW7 {
             .withString(":v_title", "The P"))
         .withConsistentRead(true);
 
+    // Query the table.
+    Table table = dynamoDb.getTable("Movies");
     ItemCollection<QueryOutcome> items = table.query(spec);
 
+    // For all of the returned results, print out the name of the movie.
     Iterator<Item> iterator = items.iterator();
     System.out.println("----------- Query 1 -----------");
     System.out.println("Movies from 2005 that begin with \"The P\"");
@@ -176,9 +192,12 @@ public class HW7 {
   }
 
   private static void queryTwo() {
+
+    // Get the table and the secondary index of the table for searching.
     Table table = dynamoDb.getTable("Movies");
     Index index = table.getIndex("RatingIndex");
 
+    // Define a query that matches with the secondary global index's hash key.
     QuerySpec spec = new QuerySpec()
         .withKeyConditionExpression("#r = :v_rating")
         .withNameMap(new NameMap()
@@ -186,21 +205,18 @@ public class HW7 {
         .withValueMap(new ValueMap()
             .withString(":v_rating","PG"));
 
+    // Sum the ratings of all the returned items and divide by the total
+    // number of items returned to find the average. Integer division, so the
+    // number is very likely not 100% accurate.
     ItemCollection<QueryOutcome> items = index.query(spec);
     Iterator<Item> iterator = items.iterator();
-
     System.out.println("----------- Query 2 -----------");
-
-    double sum = 0;
+    int sum = 0;
     int count = 0;
-
     while (iterator.hasNext()) {
       sum += iterator.next().getInt("Score");
       count++;
     }
-
-    System.out.printf("Average score is %.2f for all PG movies.%n",
-        sum / count);
-
+    System.out.printf("Average score is %d for all PG movies.%n", sum / count);
   }
 }
