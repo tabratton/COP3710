@@ -154,16 +154,6 @@ public class HW7 {
 
   private static void queryOne() {
 
-    // Associate aliases used in the query with attribute names.
-    HashMap<String, String> nameMap = new HashMap<>();
-    nameMap.put("#yr", "Year");
-    nameMap.put("#tl", "Title");
-
-    // Associate aliases used in the query with actual search values.
-    HashMap<String, Object> valueMap = new HashMap<>();
-    valueMap.put(":yyyy", 2005);
-    valueMap.put(":bgw", "The P");
-
     // Define a query that matches with the hash key and filters results with
     // the range key.
     QuerySpec spec = new QuerySpec()
