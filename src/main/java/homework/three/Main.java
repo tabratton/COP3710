@@ -17,19 +17,18 @@ public class Main {
    * @throws Exception
    */
   public static void main(String[] args) throws Exception {
-    String currentDir = System.getProperty("user.dir");
-    String jsonFilesDir = currentDir + "\\movies";
-    Database database = new Database(currentDir);
+    var currentDir = System.getProperty("user.dir");
+    var jsonFilesDir = currentDir + "\\movies";
+    var database = new Database(currentDir);
     database.createDatabase();
 
-    ObjectMapper mapper = new ObjectMapper();
+    var mapper = new ObjectMapper();
     mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
 
-    long numFilesToParse = Files.list(Paths.get(jsonFilesDir)).count();
-    for (long i = 1; i <= numFilesToParse; i++) {
-      Movies movieArray = mapper.readValue(new File(jsonFilesDir + "\\page"
-              + i + ".json"),
-          Movies.class);
+    var numFilesToParse = Files.list(Paths.get(jsonFilesDir)).count();
+    for (var i = 1; i <= numFilesToParse; i++) {
+      var movieArray = mapper.readValue(new File(jsonFilesDir + "\\page"
+              + i + ".json"), Movies.class);
       database.insertEntries(movieArray);
     }
 

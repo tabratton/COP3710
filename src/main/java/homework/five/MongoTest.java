@@ -2,9 +2,6 @@ package homework.five;
 
 import com.mongodb.Block;
 import com.mongodb.MongoClient;
-import com.mongodb.client.MongoCollection;
-import com.mongodb.client.MongoCursor;
-import com.mongodb.client.MongoDatabase;
 import com.mongodb.client.model.Filters;
 import org.bson.Document;
 
@@ -20,50 +17,49 @@ public class MongoTest {
   @SuppressWarnings("deprecation")
   public static void main(String args[]) throws UnknownHostException {
     // connecting to a running mongodb server
-    MongoClient mongoClient = new MongoClient("localhost", 27017);
+    var mongoClient = new MongoClient("localhost", 27017);
 
     // creating/finding a database named "fgcu"
-    MongoDatabase db = mongoClient.getDatabase("fgcu");
+    var db = mongoClient.getDatabase("fgcu");
 
     // creating/finding a collection named "likes"
-    MongoCollection<Document> likes = db.getCollection("likes");
+    var likes = db.getCollection("likes");
 
     // building a list of documents
-    List<Document> documents = loadDocuments();
+    var documents = loadDocuments();
 
     // inserting the documents
     likes.insertMany(documents);
 
     // find all names under category "Education"
     System.out.println("All \"Education\" Category");
-    MongoCursor<Document> results = likes.find(Filters.eq("category",
-        "Education")).iterator();
+    var results = likes.find(Filters.eq("category", "Education")).iterator();
     while (results.hasNext()) {
-      Document result = results.next();
+      var result = results.next();
       System.out.println("\t" + result.get("name"));
     }
 
     System.out.println("All FGCU related");
-    likes.find(Filters.and(Filters.lt("name", "FGCUZ"), Filters.gt("name",
-        "FGCU"))).forEach(new Block<Document>() {
+    likes.find(Filters.and(Filters.lt("name", "FGCUZ"), Filters.gt("name", "FGCU")))
+        .forEach(new Block<Document>() {
 
-      public void apply(Document doc) {
-        System.out.println("\t" + doc.get("name"));
-      }
+          public void apply(Document doc) {
+            System.out.println("\t" + doc.get("name"));
+          }
 
-    });
+        });
 
     // disconnecting from the server
     mongoClient.close();
   }
 
   private static List<Document> loadDocuments() {
-    List<Document> documents = new ArrayList<Document>();
+    var documents = new ArrayList<Document>();
 
-    Document doc = new Document();
+    var doc = new Document();
     doc.append("category", "Education");
     doc.append("name", "College & University");
-    List<Document> list = new ArrayList<Document>();
+    var list = new ArrayList<Document>();
     list.add(new Document("name", "College & University"));
     doc.append("category_list", list);
     documents.add(doc);
@@ -71,7 +67,7 @@ public class MongoTest {
     doc = new Document();
     doc.put("category", "Public figure");
     doc.append("name", "Azul The Eagle");
-    list = new ArrayList<Document>();
+    list = new ArrayList<>();
     list.add(new Document("name", "Public Figure"));
     doc.append("category_list", list);
     documents.add(doc);
@@ -84,7 +80,7 @@ public class MongoTest {
     doc = new Document();
     doc.append("category", "Sports/recreation/activities");
     doc.append("name", "FGCU Intramural Sports");
-    list = new ArrayList<Document>();
+    list = new ArrayList<>();
     list.add(new Document("name", "Sports & Recreation"));
     doc.append("category_list", list);
     documents.add(doc);
@@ -120,7 +116,7 @@ public class MongoTest {
     doc = new Document();
     doc.append("category", "Sports/recreation/activities");
     doc.append("name", "FGCU Outdoor Pursuits");
-    list = new ArrayList<Document>();
+    list = new ArrayList<>();
     list.add(new Document("name", "Outdoor Recreation"));
     doc.append("category_list", list);
     documents.add(doc);
@@ -132,14 +128,13 @@ public class MongoTest {
 
     doc = new Document();
     doc.append("category", "Education");
-    doc.append("name", "Office of Undergraduate Research and Scholarship at"
-        + " FGCU");
+    doc.append("name", "Office of Undergraduate Research and Scholarship at FGCU");
     documents.add(doc);
 
     doc = new Document();
     doc.append("category", "Education");
     doc.append("name", "Office of Community Outreach");
-    list = new ArrayList<Document>();
+    list = new ArrayList<>();
     list.add(new Document("name", "College & University"));
     doc.append("category_list", list);
     documents.add(doc);
@@ -147,7 +142,7 @@ public class MongoTest {
     doc = new Document();
     doc.append("category", "Education");
     doc.append("name", "FGCU - Continuing Education");
-    list = new ArrayList<Document>();
+    list = new ArrayList<>();
     list.add(new Document("name", "School"));
     list.add(new Document("name", "Classes"));
     doc.append("category_list", list);
@@ -167,7 +162,7 @@ public class MongoTest {
     doc.append("category", "University");
     doc.append("name", "Florida Gulf Coast University PGA Golf Management"
         + " Program");
-    list = new ArrayList<Document>();
+    list = new ArrayList<>();
     list.add(new Document("name", "College & University"));
     doc.append("category_list", list);
     documents.add(doc);
@@ -176,7 +171,7 @@ public class MongoTest {
     doc.append("category", "Education");
     doc.append("name", "Center for Environmental and Sustainability Education"
         + " at FGCU");
-    list = new ArrayList<Document>();
+    list = new ArrayList<>();
     list.add(new Document("name", "Education"));
     doc.append("category_list", list);
     documents.add(doc);
@@ -184,7 +179,7 @@ public class MongoTest {
     doc = new Document();
     doc.append("category", "Education");
     doc.append("name", "FGCU Dean of Students' Office");
-    list = new ArrayList<Document>();
+    list = new ArrayList<>();
     list.add(new Document("name", "Education"));
     doc.append("category_list", list);
     documents.add(doc);
@@ -197,7 +192,7 @@ public class MongoTest {
     doc = new Document();
     doc.append("category", "Education");
     doc.append("name", "FGCU International Services Office");
-    list = new ArrayList<Document>();
+    list = new ArrayList<>();
     list.add(new Document("name", "Education"));
     doc.append("category_list", list);
     documents.add(doc);
@@ -205,7 +200,7 @@ public class MongoTest {
     doc = new Document();
     doc.append("category", "University");
     doc.append("name", "FGCU Graduate Studies");
-    list = new ArrayList<Document>();
+    list = new ArrayList<>();
     list.add(new Document("name", "College & University"));
     doc.append("category_list", list);
     documents.add(doc);
@@ -213,7 +208,7 @@ public class MongoTest {
     doc = new Document();
     doc.append("category", "University");
     doc.append("name", "FGCU Campus Recreation");
-    list = new ArrayList<Document>();
+    list = new ArrayList<>();
     list.add(new Document("name", "College & University"));
     doc.append("category_list", list);
     documents.add(doc);
@@ -226,7 +221,7 @@ public class MongoTest {
     doc = new Document();
     doc.append("category", "Restaurant/cafe");
     doc.append("name", "Eagle Dining");
-    list = new ArrayList<Document>();
+    list = new ArrayList<>();
     list.add(new Document("name", "Restaurant"));
     doc.append("category_list", list);
     documents.add(doc);

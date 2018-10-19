@@ -1,6 +1,6 @@
 package homework.seven;
 
-import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Class that maps the movie object in the json files to a Java object.
@@ -11,7 +11,7 @@ public class MovieObject {
   private String year;
   private String mpaa_rating;
   private Rating ratings;
-  private ArrayList<Cast> abridged_cast;
+  private List<Cast> abridged_cast;
 
   public String getId() {
     return id;
@@ -53,11 +53,11 @@ public class MovieObject {
     this.ratings = ratings;
   }
 
-  public ArrayList<Cast> getAbridged_cast() {
+  public List<Cast> getAbridged_cast() {
     return abridged_cast;
   }
 
-  public void setAbridged_cast(ArrayList<Cast> abridged_cast) {
+  public void setAbridged_cast(List<Cast> abridged_cast) {
     this.abridged_cast = abridged_cast;
   }
 }

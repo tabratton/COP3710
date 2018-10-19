@@ -1,6 +1,6 @@
 package homework.three;
 
-import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Class that maps the rating object in the json files to a Java object.
@@ -8,7 +8,7 @@ import java.util.ArrayList;
 public class Cast {
   private String name;
   private String id;
-  private ArrayList<String> characters;
+  private List<String> characters;
 
   public String getName() {
     return name;
@@ -26,11 +26,11 @@ public class Cast {
     this.id = id;
   }
 
-  public ArrayList<String> getCharacters() {
+  public List<String> getCharacters() {
     return characters;
   }
 
-  public void setCharacters(ArrayList<String> characters) {
+  public void setCharacters(List<String> characters) {
     this.characters = characters;
   }
 }

@@ -30,7 +30,7 @@ public class DynamoDbExample {
 
   public static void main(String[] args) throws InterruptedException {
 
-    AmazonDynamoDBClient client = new AmazonDynamoDBClient(new ProfileCredentialsProvider());
+    var client = new AmazonDynamoDBClient(new ProfileCredentialsProvider());
     client.setEndpoint("http://localhost:8000");
     client.setSignerRegionOverride("local");
 
@@ -40,13 +40,14 @@ public class DynamoDbExample {
 
     createTableExample();
 
-    TableCollection<ListTablesResult> tables = dynamoDb.listTables();
-    Iterator<Table> table = tables.iterator();
-    int numOfTables = 0;
+    var tables = dynamoDb.listTables();
+    var table = tables.iterator();
+    var numOfTables = 0;
     while (table.hasNext()) {
       System.out.println(table.next().getDescription());
       numOfTables++;
     }
+
     System.out.printf("%d tables exist in the database.", numOfTables);
 
     // see what you can do with such a "dynamoDb" object
@@ -54,19 +55,16 @@ public class DynamoDbExample {
     //    http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/JavaDocumentAPIWorkingWithTables.html
     // 2. Working with indexes
     //    http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GSIJavaDocumentAPI.html
-
   }
 
-  private static void deleteExampleTable() throws
-      InterruptedException {
+  private static void deleteExampleTable() throws InterruptedException {
 
-    Table table = dynamoDb.getTable("testTable");
+    var table = dynamoDb.getTable("testTable");
     try {
       System.out.println("Issuing DeleteTable request for " + "testTable");
       table.delete();
 
-      System.out.println("Waiting for testTable to be deleted... this may"
-          + " take a while...");
+      System.out.println("Waiting for testTable to be deleted... this may take a while...");
 
       table.waitForDelete();
     } catch (ResourceNotFoundException ex) {
@@ -75,18 +73,14 @@ public class DynamoDbExample {
     }
   }
 
-  private static void createTableExample() throws
-      InterruptedException {
-    ArrayList<AttributeDefinition> attributeDefinitions = new
-        ArrayList<>();
-    attributeDefinitions.add(new AttributeDefinition().withAttributeName("Id")
-        .withAttributeType("N"));
+  private static void createTableExample() throws InterruptedException {
+    var attributeDefinitions = new ArrayList<AttributeDefinition>();
+    attributeDefinitions.add(new AttributeDefinition().withAttributeName("Id").withAttributeType("N"));
 
-    ArrayList<KeySchemaElement> keySchema = new ArrayList<>();
-    keySchema.add(new KeySchemaElement().withAttributeName("Id")
-        .withKeyType(KeyType.HASH));
+    var keySchema = new ArrayList<KeySchemaElement>();
+    keySchema.add(new KeySchemaElement().withAttributeName("Id").withKeyType(KeyType.HASH));
 
-    CreateTableRequest request = new CreateTableRequest()
+    var request = new CreateTableRequest()
         .withTableName("testTable")
         .withKeySchema(keySchema)
         .withAttributeDefinitions(attributeDefinitions)
@@ -94,7 +88,7 @@ public class DynamoDbExample {
             .withReadCapacityUnits(10L)
             .withWriteCapacityUnits(10L));
 
-    Table table = dynamoDb.createTable(request);
+    var table = dynamoDb.createTable(request);
 
     System.out.println(table.getDescription());
 

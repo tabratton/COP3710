@@ -54,7 +54,7 @@ public class Database {
    * @param movies A Movies object that contains an ArrayList of MovieObjects.
    */
   public void insertEntries(Movies movies) {
-    for (MovieObject movie : movies.getMovies()) {
+    for (var movie : movies.getMovies()) {
       createMovieEntry(movie);
       createActorEntries(movie);
       createCharacterEntries(movie);
@@ -63,13 +63,13 @@ public class Database {
 
   private void createMovieEntry(MovieObject movie) {
     // Gather data from the MovieObject and create a statement String.
-    String movieId = movie.getId();
-    String title = movie.getTitle();
-    String year = movie.getYear();
-    String mpaaRating = movie.getMpaa_rating();
-    int audienceScore = movie.getRatings().getAudience_score();
-    int criticsScore = movie.getRatings().getCritics_score();
-    String executeString = String.format("INSERT INTO MOVIE (id, title, year,"
+    var movieId = movie.getId();
+    var title = movie.getTitle();
+    var year = movie.getYear();
+    var mpaaRating = movie.getMpaa_rating();
+    var audienceScore = movie.getRatings().getAudience_score();
+    var criticsScore = movie.getRatings().getCritics_score();
+    var executeString = String.format("INSERT INTO MOVIE (id, title, year,"
             + " mpaa_rating, audience_score, critics_score) VALUES ('%s', '%s',"
             + " '%s', '%s', %d, %d)", movieId, title.replaceAll("'", "''"), year,
         mpaaRating, audienceScore, criticsScore);
@@ -83,12 +83,12 @@ public class Database {
 
   private void createActorEntries(MovieObject movie) {
     // Get cast list from the movie object.
-    ArrayList<Cast> actors = movie.getAbridged_cast();
-    for (Cast actor : actors) {
+    var actors = movie.getAbridged_cast();
+    for (var actor : actors) {
       // Gather actor data from cast objects and create a statement String.
-      String id = actor.getId();
-      String name = actor.getName();
-      String executeString = String.format("INSERT INTO ACTOR (id, name)"
+      var id = actor.getId();
+      var name = actor.getName();
+      var executeString = String.format("INSERT INTO ACTOR (id, name)"
           + " VALUES ('%s', '%s')", id, name.replaceAll("'", "''"));
 
       try {
@@ -101,16 +101,16 @@ public class Database {
 
   private void createCharacterEntries(MovieObject movie) {
     // Get cast list from movie object.
-    ArrayList<Cast> actors = movie.getAbridged_cast();
-    for (Cast actor : actors) {
+    var actors = movie.getAbridged_cast();
+    for (var actor : actors) {
       // Get list of characters that the actor played (Could be more than one).
-      ArrayList<String> characters = actor.getCharacters();
+      var characters = actor.getCharacters();
       // Check to make sure that they actually played a character (Could have
       // been none).
       if (characters != null) {
-        for (String character : characters) {
+        for (var character : characters) {
           // Create a statement String for each character.
-          String executeString = String.format("INSERT INTO CHARACTER"
+          var executeString = String.format("INSERT INTO CHARACTER"
                   + " (character, actor_id, movie_id) VALUES ('%s', '%s', '%s')",
               character.replaceAll("'", "''"), actor.getId(), movie.getId());
 
@@ -126,9 +126,9 @@ public class Database {
 
   // Drops all tables used in this program.
   private void dropTables() {
-    String dropCharacter = "DROP TABLE IF EXISTS character";
-    String dropActor = "DROP TABLE IF EXISTS actor";
-    String dropMovie = "DROP TABLE IF EXISTS movie";
+    var dropCharacter = "DROP TABLE IF EXISTS character";
+    var dropActor = "DROP TABLE IF EXISTS actor";
+    var dropMovie = "DROP TABLE IF EXISTS movie";
 
     try {
       executeStatements(dropCharacter);
@@ -141,7 +141,7 @@ public class Database {
 
   // Creates movie table
   private void createMovieTable() {
-    String executeString = "CREATE TABLE movie"
+    var executeString = "CREATE TABLE movie"
         + "("
         + "id varchar(100) NOT NULL UNIQUE,"
         + "title varchar(100),"
@@ -162,7 +162,7 @@ public class Database {
 
   // Creates actor table.
   private void createActorTable() {
-    String executeString = "CREATE TABLE actor"
+    var executeString = "CREATE TABLE actor"
         + "("
         + "id varchar(100) NOT NULL UNIQUE,"
         + "name varchar(100),"
@@ -178,7 +178,7 @@ public class Database {
 
   // Creates character table.
   private void createCharacterTable() {
-    String executeString = "CREATE TABLE character"
+    var executeString = "CREATE TABLE character"
         + "("
         + "character varchar(100) NOT NULL,"
         + "actor_id varchar(100) NOT NULL,"
@@ -198,17 +198,10 @@ public class Database {
   // Generic method to deal with all database updates to cut down on code
   // duplication.
   private void executeStatements(String execute) throws SQLException {
-    PreparedStatement stmt = null;
-
-    try {
-      stmt = this.connection.prepareStatement(execute);
+    try (var stmt = this.connection.prepareStatement(execute)) {
       stmt.executeUpdate();
     } catch (SQLException ex) {
       ex.getMessage();
-    } finally {
-      if (stmt != null) {
-        stmt.close();
-      }
     }
   }
 }

@@ -13,7 +13,7 @@ public class RandomObject {
   private String guid;
   private boolean isActive;
   private String balance;
-  private String  picture;
+  private String picture;
   private int age;
   private String eyeColor;
   private String name;
@@ -31,11 +31,11 @@ public class RandomObject {
 
   @XmlElementWrapper(name = "tags")
   @XmlElement(name = "tag")
-  private String [] tags;
+  private String[] tags;
 
   @XmlElementWrapper(name = "friends")
   @XmlElement(name = "friend")
-  private Friend [] friends;
+  private Friend[] friends;
 
   public String get_id() {
     return this._id;

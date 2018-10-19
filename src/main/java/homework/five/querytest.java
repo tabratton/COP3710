@@ -1,31 +1,24 @@
 package homework.five;
 
 import com.mongodb.MongoClient;
-import com.mongodb.client.MongoCollection;
-import com.mongodb.client.MongoCursor;
-import com.mongodb.client.MongoDatabase;
 import com.mongodb.client.model.Filters;
 import org.bson.Document;
 
-import java.util.HashSet;
 import java.util.List;
 
 public class querytest {
   public static void main(String[] args) {
-    MongoClient mongoClient = new MongoClient("localhost", 27017);
-    MongoDatabase db = mongoClient.getDatabase("moviedatabase");
-    MongoCollection<Document> movies = db.getCollection("movies");
-    MongoCollection<Document> actors = db.getCollection("actors");
+    var mongoClient = new MongoClient("localhost", 27017);
+    var db = mongoClient.getDatabase("moviedatabase");
+//    var movies = db.getCollection("movies");
+    var actors = db.getCollection("actors");
 
 
-    MongoCursor<Document> result = actors.find(Filters.eq("name", "Tom"
-        + " Hanks")).iterator();
+    var result = actors.find(Filters.eq("name", "Tom Hanks")).iterator();
     System.out.println("Tom Hanks has played");
-    List<Document> tomCharacters = (List<Document>) result.next().get(
-        "characters");
-    for (Document ch : tomCharacters) {
-      System.out.printf("\t\"%s\" in \"%s\"\n", ch.get("character"), ch.get(
-          "movieTitle"));
+    var tomCharacters = (List<Document>) result.next().get("characters");
+    for (var ch : tomCharacters) {
+      System.out.printf("\t\"%s\" in \"%s\"%n", ch.get("character"), ch.get("movieTitle"));
     }
 
 //    result = movies.find(Filters.elemMatch(
@@ -49,6 +42,7 @@ public class querytest {
 //        }
 //      }
 //    }
+
     mongoClient.close();
   }
 }
